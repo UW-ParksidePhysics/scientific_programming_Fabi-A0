@@ -26,4 +26,8 @@ command-line  python  README.md
 (venv) root@deepnote:~ # cd work
 (venv) root@deepnote:~/work # pwd
 /root/work
-(venv) root@deepnote:~/work # 
+(venv) root@deepnote:~/work # ls -la
+total 8
+drwxrwxrwx. 1 root users 4096 Jan  1  1970 .
+drwxrwsrwx. 3 root users   28 Feb  3 14:33 ..
+drwxr-xr-x. 1 root users 4096 Feb  3 14:42 scientific_programming_Fabi-A0

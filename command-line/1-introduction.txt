@@ -1,1 +1,29 @@
-
+(venv) root@deepnote:~/work # pwd
+/root/work
+(venv) root@deepnote:~/work # ls
+scientific_programming_Fabi-A0
+(venv) root@deepnote:~/work # cd scientific_programming_Fabi-A0/
+(venv) root@deepnote:~/work/scientific_programming_Fabi-A0 # pwd
+/root/work/scientific_programming_Fabi-A0
+(venv) root@deepnote:~/work/scientific_programming_Fabi-A0 # cd ~
+(venv) root@deepnote:~ # pwd
+/root
+(venv) root@deepnote:~ # ls
+venv  work
+(venv) root@deepnote:~ # pwd
+/root
+(venv) root@deepnote:~ # cd work
+(venv) root@deepnote:~/work # ls
+scientific_programming_Fabi-A0
+(venv) root@deepnote:~/work # cd scientific_programming_Fabi-A0/
+(venv) root@deepnote:~/work/scientific_programming_Fabi-A0 # ls
+command-line  python  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi-A0 # pwd
+/root/work/scientific_programming_Fabi-A0
+(venv) root@deepnote:~/work/scientific_programming_Fabi-A0 # cd ~
+(venv) root@deepnote:~ # pwd
+/root
+(venv) root@deepnote:~ # cd work
+(venv) root@deepnote:~/work # pwd
+/root/work
+(venv) root@deepnote:~/work # 

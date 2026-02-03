@@ -1,0 +1,17 @@
+Partner:
+
+What Went Well
+---
+
+
+What Would Make Next Time 1% Better
+---
+* Focus:
+
+* Communication:
+
+* Pacing:
+
+* Division of responsibility
+
+* Code quality:

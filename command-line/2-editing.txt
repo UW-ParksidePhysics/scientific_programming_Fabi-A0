@@ -1,1 +1,19 @@
+D134619973:~ angui014$ touch example.txt
+D134619973:~ angui014$ vi example.txt
+D134619973:~ angui014$ cat example.txt
+This is my first file created in the terminal.
+D134619973:~ angui014$ ls
+Applications	Documents	Library		Music		Public		dir2		directory	dirl		item
+Desktop		Downloads	Movies		Pictures	dir1		dir3		directory...	example.txt	link
+D134619973:~ angui014$ cd Documents
+D134619973:Documents angui014$ touch notes.txt
+D134619973:Documents angui014$ vi notes.txt
+D134619973:Documents angui014$ cat notes.txt
+This is my first file created in the terminal.
+D134619973:Documents angui014$ touch shopping_list.txt
+D134619973:Documents angui014$ vi shopping_list.txt
+D134619973:Documents angui014$ cat shopping_list.txt
+apples, bread, milk, coffee.
+D134619973:Documents angui014$ 
+
 

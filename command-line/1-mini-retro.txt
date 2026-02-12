@@ -1,17 +1,17 @@
-Partner:
+Partner:N/A
 
 What Went Well
----
+---N/A
 
 
 What Would Make Next Time 1% Better
 ---
-* Focus:
+* Focus:N/A
 
-* Communication:
+* Communication:N/A
 
-* Pacing:
+* Pacing:N/A
 
-* Division of responsibility
+* Division of responsibility:N/A
 
-* Code quality:
+* Code quality:N/A

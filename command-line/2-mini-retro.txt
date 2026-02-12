@@ -1,17 +1,17 @@
-Partner:
+Partner:Jake
 
 What Went Well
----
+--- The process went smooth and we finish in a timely manner
 
 
 What Would Make Next Time 1% Better
 ---
-* Focus:
+* Focus: Deepnote working better
 
-* Communication:
+* Communication:Canvas pages werent lining up
 
-* Pacing:
+* Pacing: Could be faster
 
-* Division of responsibility
+* Division of responsibility: This was good
 
-* Code quality:
+* Code quality: N/A

@@ -1,5 +1,3 @@
-hello = 'Hello'
-world = 'world'
-
-phrase = hello + ',' + world + '!'
-print(phrase)
+name = "Fabian"
+hello_message = "Hello, World! My name is " + name
+print(hello_message)

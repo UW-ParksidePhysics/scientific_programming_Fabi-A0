@@ -1,7 +1,4 @@
-first_number = 5
-#print(f'Type of first number is: {type(first_number)}')
-second_number = 7
-
-summation = first_number + second_number
-
-print(f'The sum of {first_number} and {second_number} is {summation}.')
+Var_birthmonth = 8
+Var_birthday = 15
+print("birth month + birthday=")
+print(Var_birthmonth+Var_birthday)

@@ -1,1 +1,83 @@
-
+(venv) root@deepnote:~/work # touch example.txt
+(venv) root@deepnote:~/work # vi example.txt
+(venv) root@deepnote:~/work # cp example.txt backup_example.txt
+(venv) root@deepnote:~/work # ls
+backup_example.txt  example.txt  scientific_programming_Fabi_A0
+(venv) root@deepnote:~/work # cp example.txt /work/scientific_programming_Fabi_A0/
+(venv) root@deepnote:~/work # cd scientific_programming_Fabi_A0/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line  example.txt  python  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # cd ~
+(venv) root@deepnote:~ # cd work
+(venv) root@deepnote:~/work # cd scientific_programming_Fabi_A0/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # rm example.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line  python  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # cd ...
+bash: cd: ...: No such file or directory
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # cd ~
+(venv) root@deepnote:~ # cd work
+(venv) root@deepnote:~/work # mv example.txt /work/scientific_programming_Fabi_A0/
+(venv) root@deepnote:~/work # cd scientific_programming_Fabi_A0/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line  example.txt  python  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # mv example.txt new_example.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line  new_example.txt  python  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # mv new_example.txt /work
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # cd ..
+(venv) root@deepnote:~/work # ls
+backup_example.txt  scientific_programming_Fabi_A0
+new_example.txt
+(venv) root@deepnote:~/work # rm backup_example.txt new_example.txt
+(venv) root@deepnote:~/work # ls
+scientific_programming_Fabi_A0
+(venv) root@deepnote:~/work # cd scientific_programming_Fabi_A0/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line  python  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # cd command-line/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/command-line # ls
+10-CONCEPTS.md      3-mini-retro.txt   7-CONCEPTS.md
+10-mini-retro.txt   4-CONCEPTS.md      7-mini-retro.txt
+1-CONCEPTS.md       4-directories.txt  7-processes.txt
+1-introduction.txt  4-mini-retro.txt   8-CONCEPTS.md
+1-mini-retro.txt    5-CONCEPTS.md      8-mini-retro.txt
+2-CONCEPTS.md       5-mini-retro.txt   8-redirection.txt
+2-editing.txt       5-permissions.txt  9-CONCEPTS.md
+2-mini-retro.txt    6-CONCEPTS.md      9-mini-retro.txt
+3-CONCEPTS.md       6-mini-retro.txt   9-vi.txt
+3-files.txt         6-searching.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/command-line # cp 3-files.txt backup_files.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/command-line # mv backup_files.txt renamed_notes.txt
+ls
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/command-line # ls
+10-CONCEPTS.md      3-mini-retro.txt   7-CONCEPTS.md
+10-mini-retro.txt   4-CONCEPTS.md      7-mini-retro.txt
+1-CONCEPTS.md       4-directories.txt  7-processes.txt
+1-introduction.txt  4-mini-retro.txt   8-CONCEPTS.md
+1-mini-retro.txt    5-CONCEPTS.md      8-mini-retro.txt
+2-CONCEPTS.md       5-mini-retro.txt   8-redirection.txt
+2-editing.txt       5-permissions.txt  9-CONCEPTS.md
+2-mini-retro.txt    6-CONCEPTS.md      9-mini-retro.txt
+3-CONCEPTS.md       6-mini-retro.txt   9-vi.txt
+3-files.txt         6-searching.txt    renamed_notes.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/command-line # rm renamed_notes.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/command-line # cd ..
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # mkdir practice_directory
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # cd practice_directory
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/practice_directory # touch shopping_list.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/practice_directory # ls
+shopping_list.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/practice_directory # mv shopping_list.txt /work/scientific_programming_Fabi_A0/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/practice_directory # cd ..
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line        python     shopping_list.txt
+practice_directory  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # mv shopping_list.txt /work/scientific_programming_Fabi_A0/practice_directory/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls -R practice_directory/
+practice_directory/:
+shopping_list.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # rm -r practice_directory/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line  python  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # 

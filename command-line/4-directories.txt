@@ -1,1 +1,38 @@
+(venv) root@deepnote:~/work # ls
+scientific_programming_Fabi_A0
+(venv) root@deepnote:~/work # cd scientific_programming_Fabi_A0/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # mkdir lesson4-practice
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line  lesson4-practice  python  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # mkdir -p lesson4-practice/data/2026
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line  lesson4-practice  python  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # cd lesson4-practice/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/lesson4-practice # ls
+data
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/lesson4-practice # cd data/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/lesson4-practice/data # ls
+2026
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/lesson4-practice/data # cd ~/work/scientific_programming_Fabi_A0/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # find lesson4-practice -type d
+lesson4-practice
+lesson4-practice/data
+lesson4-practice/data/2026
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # rmdir lesson4-practice/data/2026
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # find lesson4-practice -type d
+lesson4-practice
+lesson4-practice/data
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # rm -r lesson4-practice
+l(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line  python  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # mkdir projects
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # mkdir -p projects/frontend projects/backend projects/database
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # find projects -type d
+projects
+projects/backend
+projects/database
+projects/frontend
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # rm -r projects
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line  python  README.md
 

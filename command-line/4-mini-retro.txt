@@ -1,17 +1,17 @@
-Partner:
+Partner: Christian
 
 What Went Well
----
+--- Communication
 
 
 What Would Make Next Time 1% Better
 ---
-* Focus:
+* Focus: Getting use to making directories
 
-* Communication:
+* Communication: I wrote the program and he communicated the practice and challenge
 
-* Pacing:
+* Pacing: 7/10 this one took a minute
 
-* Division of responsibility
+* Division of responsibility: writer me, speaker partner
 
-* Code quality:
+* Code quality: I think it was good made little mistakes as the terminal was lagging a bit

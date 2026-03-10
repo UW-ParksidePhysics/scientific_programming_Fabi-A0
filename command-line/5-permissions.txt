@@ -1,1 +1,45 @@
-
+(venv) root@deepnote:~/work # cd scientific_programming_Fabi_A0/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line  python  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # mkdir Documents
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
+command-line  Documents  python  README.md
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # cd Documents/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # touch notes.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # ls -l notes.txt
+-rw-r--r--. 1 root users 0 Mar 10 06:48 notes.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # chmod u+x notes.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # chmod o-r notes.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # ls -l notes.txt
+-rwxr-----. 1 root users 0 Mar 10 06:48 notes.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # rm notes.txt
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # cd ~
+(venv) root@deepnote:~ # cd work
+(venv) root@deepnote:~/work # cd ~/Documents
+bash: cd: /root/Documents: No such file or directory
+(venv) root@deepnote:~/work # cd scientific_programming_Fabi_A0/Documents/
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # echo '#!/bin/sh echo "Hello, world!"'> script.sh
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # ls -l script.sh
+-rw-r--r--. 1 root users 31 Mar 10 06:54 script.sh
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # ./script.sh
+bash: ./script.sh: /bin/sh: bad interpreter: Permission denied
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # chmod 755 script.sh
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # ls -l script.sh
+-rwxr-xr-x. 1 root users 31 Mar 10 06:54 script.sh
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # ./script.sh
+/bin/sh: 0: cannot open echo "Hello, world!": No such file
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # rm script.sh
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # echo '#!/bin/sh
+> echo "Hello, world!"' > script.sh
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # ls -l script.sh
+-rw-r--r--. 1 root users 31 Mar 10 06:58 script.sh
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # ./script.sh
+bash: ./script.sh: /bin/sh: bad interpreter: Permission denied
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # chmod 755 script.sh\
+> 
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # ls -l script.sh
+-rwxr-xr-x. 1 root users 31 Mar 10 06:58 script.sh
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # ./script.sh
+Hello, world!
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # rm script.sh
+(venv) root@deepnote:~/work/scientific_programming_Fabi_A0/Documents # ls

@@ -1,13 +1,13 @@
 # Concepts
-*Prompt
-*Shell
-*Directory
-*Argument
-*Redirection
-*Parameter
-*Metacharacter
-*Variable
-*Script
-*Comment
-*Delimiter
+* Prompt
+* Shell
+* Directory
+* Argument
+* Redirection
+* Parameter
+* Metacharacter
+* Variable
+* Script
+* Comment
+* Delimiter
 

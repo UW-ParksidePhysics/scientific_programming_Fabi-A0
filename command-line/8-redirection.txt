@@ -1,1 +1,26 @@
-
+(venv) root@deepnote:~/work # cd scientific_programming_rosaliehelgeland/
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # touch greeting.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # echo "welcome to lesson 8!" > greeting.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # echo "lets learn about redirection!" >> greeting.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # cat greeting.txt
+welcome to lesson 8!
+lets learn about redirection!
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # rm greeting.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # touch list.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # echo "file 1" > list.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # echo "file 2" >> list.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # cat list.txt
+file 1
+file 2
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # rm list.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # touch data.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # echo "^[[200~Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.~"
+> data.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # touch word_count.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # wc -w data.txt > word_count.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # cat word_count.txt
+69 data.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # ls > direct_list.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # date >> direct_list.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # rm data.txt word_count.txt direct_list.txt
+(venv) root@deepnote:~/work/scientific_programming_rosaliehelgeland # 

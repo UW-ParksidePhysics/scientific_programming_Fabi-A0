@@ -1,17 +1,18 @@
-Partner:
+Partner:Dr. Parker
 
 What Went Well
----
+--- Fast and Straightforward 
 
 
 What Would Make Next Time 1% Better
 ---
-* Focus:
+* Focus:10/10
 
-* Communication:
+* Communication:10/10
 
-* Pacing:
+* Pacing:10/10
 
-* Division of responsibility
+* Division of responsibility:10/10 
+1+1
 
-* Code quality:
+* Code quality:10/10

@@ -32,7 +32,7 @@ print(values)
 print("Tenth Eigenvector:")
 print(tenth_vector)
 
-plt.plot(x_values, tenth_vector, "o", label="tenth eigenvector")
+plt.plot(x_values, tenth_vector, ".", label="tenth eigenvector")
 plt.plot(x, y, label="sqrt(2)sin(pi x)")
 plt.xlabel("x")
 plt.ylabel("y")

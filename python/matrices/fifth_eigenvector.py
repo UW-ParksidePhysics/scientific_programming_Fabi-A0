@@ -29,10 +29,11 @@ y = np.sqrt(2) * np.sin(np.pi * x)
 print("Eigenvalues:")
 print(values)
 
-print("5th Eigenvector:")
+print("fifth Eigenvector:")
 print(fifth_vector)
 
-plt.plot(x_values, fifth_vector, "o", label="5th eigenvector")
+plt.plot(x_values, fifth_vector, "o", label="
+fifth eigenvector")
 plt.plot(x, y, label="sqrt(2)sin(pi x)")
 plt.xlabel("x")
 plt.ylabel("y")

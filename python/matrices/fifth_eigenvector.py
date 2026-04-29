@@ -32,7 +32,7 @@ print(values)
 print("fifth Eigenvector:")
 print(fifth_vector)
 
-plt.plot(x_values, fifth_vector, "o", label="
+plt.plot(x_values, fifth_vector, ".", label="
 fifth eigenvector")
 plt.plot(x, y, label="sqrt(2)sin(pi x)")
 plt.xlabel("x")

@@ -1,1 +1,19 @@
+(venv) root@deepnote:~/work # vi text.txt
+(venv) root@deepnote:~/work # vi test.py
+(venv) root@deepnote:~/work # vi test1.py
+(venv) root@deepnote:~/work # cat !$
+cat test1.py
+def print_text_string_and_calculate_sum(text_string, numbers):
+    print(text_string)
+    print(f"{numbers[0]}+{numbers[1]}={sum(numbers)}")
 
+
+if __name__ == '__main__':
+        print_text_string_and_calculate_sum("Hello, world!", [1, 1])
+
+
+(venv) root@deepnote:~/work # python !$
+python test1.py
+Hello, world!
+1+1=2
+(venv) root@deepnote:~/work #

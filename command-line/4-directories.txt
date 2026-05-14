@@ -35,4 +35,3 @@ projects/frontend
 (venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # rm -r projects
 (venv) root@deepnote:~/work/scientific_programming_Fabi_A0 # ls
 command-line  python  README.md
-

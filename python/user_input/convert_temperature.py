@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import sys
 
 
@@ -98,3 +99,7 @@ if __name__ == "__main__":
         test_conversion()
     else:
         user_interface()
+=======
+c to f -> f to c -> c to k -> k to c -> f to k -> f
+
+>>>>>>> Stashed changes

@@ -1,17 +1,17 @@
-Partner: No partner when done in class had a friend go over it though 
+Partner: N/A did not have a partner
 
 What Went Well
---- We communicate well the order of doing the procedure 
+--- Finish
 
 
 What Would Make Next Time 1% Better
 ---
-* Focus: 10/10 we were steady but can be better always
+* Focus:
 
-* Communication: Now when the other has finished a step at a better tempo so as to be more smooth 
+* Communication:
 
-* Pacing: 10/10 we didnt felt slowed down from the step process 
+* Pacing:
 
-* Division of responsibility: one read and I did the command line
+* Division of responsibility
 
-* Code quality:Could be better I did double verification all the time was no necessary based on what was written.
+* Code quality:

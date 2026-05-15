@@ -1,0 +1,9930 @@
+[
+  {
+    "name": "Orion",
+    "subtitle": "The Hunter",
+    "best_months": "December – March",
+    "description": "Orion, the hunter of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "Betelgeuse",
+        "hip": 27989,
+        "pos": [
+          0.3385,
+          0.4438
+        ]
+      },
+      {
+        "name": "Alnitak",
+        "hip": 26727,
+        "pos": [
+          0.4344,
+          0.6936
+        ]
+      },
+      {
+        "name": "Saiph",
+        "hip": 27366,
+        "pos": [
+          0.3878,
+          0.9
+        ]
+      },
+      {
+        "name": "Alnilam",
+        "hip": 26311,
+        "pos": [
+          0.4646,
+          0.6738
+        ]
+      },
+      {
+        "name": "Mintaka",
+        "hip": 25930,
+        "pos": [
+          0.4926,
+          0.6497
+        ]
+      },
+      {
+        "name": "Bellatrix",
+        "hip": 25336,
+        "pos": [
+          0.5383,
+          0.472
+        ]
+      },
+      {
+        "name": "* eta Ori",
+        "hip": 25281,
+        "pos": [
+          0.5426,
+          0.7057
+        ]
+      },
+      {
+        "name": "Rigel",
+        "hip": 24436,
+        "pos": [
+          0.6087,
+          0.8608
+        ]
+      },
+      {
+        "name": "Meissa",
+        "hip": 26207,
+        "pos": [
+          0.4717,
+          0.3763
+        ]
+      },
+      {
+        "name": "*  11 Ori",
+        "hip": 23607,
+        "pos": [
+          0.675,
+          0.2302
+        ]
+      },
+      {
+        "name": "* omi02 Ori",
+        "hip": 22957,
+        "pos": [
+          0.7295,
+          0.2806
+        ]
+      },
+      {
+        "name": "π¹ Orionis",
+        "hip": 22845,
+        "pos": [
+          0.7394,
+          0.3705
+        ]
+      },
+      {
+        "name": "π² Orionis",
+        "hip": 22509,
+        "pos": [
+          0.7678,
+          0.4039
+        ]
+      },
+      {
+        "name": "Tabit",
+        "hip": 22449,
+        "pos": [
+          0.773,
+          0.4557
+        ]
+      },
+      {
+        "name": "π⁴ Orionis",
+        "hip": 22549,
+        "pos": [
+          0.7639,
+          0.4919
+        ]
+      },
+      {
+        "name": "* pi.05 Ori",
+        "hip": 22797,
+        "pos": [
+          0.7436,
+          0.5765
+        ]
+      },
+      {
+        "name": "π⁶ Orionis",
+        "hip": 23123,
+        "pos": [
+          0.7151,
+          0.5959
+        ]
+      },
+      {
+        "name": "μ Orionis",
+        "hip": 28614,
+        "pos": [
+          0.2906,
+          0.384
+        ]
+      },
+      {
+        "name": "ν Orionis",
+        "hip": 29038,
+        "pos": [
+          0.256,
+          0.2471
+        ]
+      },
+      {
+        "name": "ξ Orionis",
+        "hip": 29426,
+        "pos": [
+          0.227,
+          0.2621
+        ]
+      },
+      {
+        "name": "* chi02 Ori",
+        "hip": 28716,
+        "pos": [
+          0.2803,
+          0.1037
+        ]
+      },
+      {
+        "name": "χ¹ Orionis",
+        "hip": 27913,
+        "pos": [
+          0.3437,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        17
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        5,
+        13
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        15,
+        16
+      ],
+      [
+        17,
+        18
+      ],
+      [
+        18,
+        21
+      ],
+      [
+        19,
+        20
+      ],
+      [
+        20,
+        21
+      ]
+    ]
+  },
+  {
+    "name": "Ursa Major",
+    "subtitle": "The Great Bear",
+    "best_months": "March – June",
+    "description": "Ursa Major, the great bear of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "Phecda",
+        "hip": 58001,
+        "pos": [
+          0.3867,
+          0.4048
+        ]
+      },
+      {
+        "name": "χ Ursae Majoris",
+        "hip": 57399,
+        "pos": [
+          0.4063,
+          0.4928
+        ]
+      },
+      {
+        "name": "ψ Ursae Majoris",
+        "hip": 54539,
+        "pos": [
+          0.4981,
+          0.5416
+        ]
+      },
+      {
+        "name": "Tania Australis",
+        "hip": 50801,
+        "pos": [
+          0.6174,
+          0.5862
+        ]
+      },
+      {
+        "name": "Tania Borealis",
+        "hip": 50372,
+        "pos": [
+          0.6306,
+          0.5652
+        ]
+      },
+      {
+        "name": "* nu. UMa",
+        "hip": 55219,
+        "pos": [
+          0.4759,
+          0.7112
+        ]
+      },
+      {
+        "name": "* ksi UMa",
+        "hip": 55203,
+        "pos": [
+          0.4766,
+          0.7345
+        ]
+      },
+      {
+        "name": "Megrez",
+        "hip": 59774,
+        "pos": [
+          0.3323,
+          0.3552
+        ]
+      },
+      {
+        "name": "Dubhe",
+        "hip": 54061,
+        "pos": [
+          0.513,
+          0.285
+        ]
+      },
+      {
+        "name": "Merak",
+        "hip": 53910,
+        "pos": [
+          0.5178,
+          0.3649
+        ]
+      },
+      {
+        "name": "Alioth",
+        "hip": 62956,
+        "pos": [
+          0.2349,
+          0.3712
+        ]
+      },
+      {
+        "name": "Mizar",
+        "hip": 65378,
+        "pos": [
+          0.1596,
+          0.3865
+        ]
+      },
+      {
+        "name": "Alkaid",
+        "hip": 67301,
+        "pos": [
+          0.1,
+          0.47
+        ]
+      },
+      {
+        "name": "23 Ursae Majoris",
+        "hip": 46733,
+        "pos": [
+          0.7455,
+          0.2655
+        ]
+      },
+      {
+        "name": "υ Ursae Majoris",
+        "hip": 48319,
+        "pos": [
+          0.6964,
+          0.3254
+        ]
+      },
+      {
+        "name": "Muscida",
+        "hip": 41704,
+        "pos": [
+          0.9,
+          0.3004
+        ]
+      },
+      {
+        "name": "Talitha",
+        "hip": 46853,
+        "pos": [
+          0.7421,
+          0.4348
+        ]
+      },
+      {
+        "name": "Alkaphrah",
+        "hip": 44471,
+        "pos": [
+          0.8159,
+          0.5021
+        ]
+      },
+      {
+        "name": "θ Ursae Majoris",
+        "hip": 44127,
+        "pos": [
+          0.827,
+          0.4889
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        9
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        8,
+        13
+      ],
+      [
+        9,
+        14
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        13,
+        15
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        14,
+        16
+      ],
+      [
+        16,
+        17
+      ],
+      [
+        17,
+        18
+      ]
+    ]
+  },
+  {
+    "name": "Cassiopeia",
+    "subtitle": "The Seated Queen",
+    "best_months": "October – January",
+    "description": "Cassiopeia, the seated queen of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "Caph",
+        "hip": 746,
+        "pos": [
+          0.9,
+          0.5582
+        ]
+      },
+      {
+        "name": "Schedar",
+        "hip": 3179,
+        "pos": [
+          0.6617,
+          0.7176
+        ]
+      },
+      {
+        "name": "Navi",
+        "hip": 4427,
+        "pos": [
+          0.5386,
+          0.4626
+        ]
+      },
+      {
+        "name": "Ruchbah",
+        "hip": 6686,
+        "pos": [
+          0.3173,
+          0.492
+        ]
+      },
+      {
+        "name": "Segin",
+        "hip": 8886,
+        "pos": [
+          0.1,
+          0.2824
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "Scorpius",
+    "subtitle": "The Scorpion",
+    "best_months": "June – September",
+    "description": "Scorpius, the scorpion of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "Acrab",
+        "hip": 78820,
+        "pos": [
+          0.8394,
+          0.1171
+        ]
+      },
+      {
+        "name": "Dschubba",
+        "hip": 78401,
+        "pos": [
+          0.8756,
+          0.2105
+        ]
+      },
+      {
+        "name": "Fang",
+        "hip": 78265,
+        "pos": [
+          0.8861,
+          0.3263
+        ]
+      },
+      {
+        "name": "* sig Sco",
+        "hip": 80112,
+        "pos": [
+          0.7279,
+          0.3091
+        ]
+      },
+      {
+        "name": "Antares",
+        "hip": 80763,
+        "pos": [
+          0.6697,
+          0.3369
+        ]
+      },
+      {
+        "name": "τ Scorpii",
+        "hip": 81266,
+        "pos": [
+          0.6238,
+          0.3961
+        ]
+      },
+      {
+        "name": "Larawag",
+        "hip": 82396,
+        "pos": [
+          0.5227,
+          0.5976
+        ]
+      },
+      {
+        "name": "Xamidimura",
+        "hip": 82514,
+        "pos": [
+          0.5106,
+          0.7221
+        ]
+      },
+      {
+        "name": "* zet02 Sco",
+        "hip": 82729,
+        "pos": [
+          0.4914,
+          0.8652
+        ]
+      },
+      {
+        "name": "η Scorpii",
+        "hip": 84143,
+        "pos": [
+          0.367,
+          0.8943
+        ]
+      },
+      {
+        "name": "Sargas",
+        "hip": 86228,
+        "pos": [
+          0.1888,
+          0.8863
+        ]
+      },
+      {
+        "name": "ι¹ Scorpii",
+        "hip": 87073,
+        "pos": [
+          0.1161,
+          0.7911
+        ]
+      },
+      {
+        "name": "Lesath",
+        "hip": 86670,
+        "pos": [
+          0.1522,
+          0.7547
+        ]
+      },
+      {
+        "name": "* ups Sco",
+        "hip": 85696,
+        "pos": [
+          0.2352,
+          0.6972
+        ]
+      },
+      {
+        "name": "Shaula",
+        "hip": 85927,
+        "pos": [
+          0.2151,
+          0.6908
+        ]
+      },
+      {
+        "name": "* G Sco",
+        "hip": 87261,
+        "pos": [
+          0.1,
+          0.6888
+        ]
+      },
+      {
+        "name": "* nu. Sco",
+        "hip": 79374,
+        "pos": [
+          0.793,
+          0.1057
+        ]
+      },
+      {
+        "name": "* rho Sco",
+        "hip": 78104,
+        "pos": [
+          0.9,
+          0.4292
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        16
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        17
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        14,
+        15
+      ]
+    ]
+  },
+  {
+    "name": "Leo",
+    "subtitle": "The Lion",
+    "best_months": "March – June",
+    "description": "Leo, the lion of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "Regulus",
+        "hip": 49669,
+        "pos": [
+          0.6578,
+          0.5955
+        ]
+      },
+      {
+        "name": "η Leonis",
+        "hip": 49583,
+        "pos": [
+          0.6636,
+          0.4848
+        ]
+      },
+      {
+        "name": "Algieba",
+        "hip": 50583,
+        "pos": [
+          0.5936,
+          0.4138
+        ]
+      },
+      {
+        "name": "Adhafera",
+        "hip": 50335,
+        "pos": [
+          0.6117,
+          0.3314
+        ]
+      },
+      {
+        "name": "Rasalas",
+        "hip": 48455,
+        "pos": [
+          0.7443,
+          0.2716
+        ]
+      },
+      {
+        "name": "Ras Elased",
+        "hip": 47908,
+        "pos": [
+          0.7826,
+          0.3231
+        ]
+      },
+      {
+        "name": "Zosma",
+        "hip": 54872,
+        "pos": [
+          0.2937,
+          0.3981
+        ]
+      },
+      {
+        "name": "Denebola",
+        "hip": 57632,
+        "pos": [
+          0.1,
+          0.5354
+        ]
+      },
+      {
+        "name": "Chertan",
+        "hip": 54879,
+        "pos": [
+          0.2929,
+          0.5156
+        ]
+      },
+      {
+        "name": "* kap Leo",
+        "hip": 46146,
+        "pos": [
+          0.9,
+          0.2676
+        ]
+      },
+      {
+        "name": "* lam Leo",
+        "hip": 46750,
+        "pos": [
+          0.8609,
+          0.3417
+        ]
+      },
+      {
+        "name": "* iot Leo",
+        "hip": 55642,
+        "pos": [
+          0.2393,
+          0.6286
+        ]
+      },
+      {
+        "name": "* sig Leo",
+        "hip": 55434,
+        "pos": [
+          0.2547,
+          0.7324
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        10
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        11
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        11,
+        12
+      ]
+    ]
+  },
+  {
+    "name": "Cygnus",
+    "subtitle": "The Swan",
+    "best_months": "August – November",
+    "description": "Cygnus, the swan of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "Deneb",
+        "hip": 102098,
+        "pos": [
+          0.3423,
+          0.3547
+        ]
+      },
+      {
+        "name": "Sadr",
+        "hip": 100453,
+        "pos": [
+          0.457,
+          0.5128
+        ]
+      },
+      {
+        "name": "Gienah",
+        "hip": 102488,
+        "pos": [
+          0.3138,
+          0.7108
+        ]
+      },
+      {
+        "name": "Albireo",
+        "hip": 95947,
+        "pos": [
+          0.7645,
+          0.9
+        ]
+      },
+      {
+        "name": "Fawaris",
+        "hip": 97165,
+        "pos": [
+          0.6794,
+          0.3594
+        ]
+      },
+      {
+        "name": "ι² Cygni",
+        "hip": 95853,
+        "pos": [
+          0.7706,
+          0.1516
+        ]
+      },
+      {
+        "name": "κ Cygni",
+        "hip": 94779,
+        "pos": [
+          0.8458,
+          0.1
+        ]
+      },
+      {
+        "name": "* omi02 Cyg",
+        "hip": 99848,
+        "pos": [
+          0.4973,
+          0.278
+        ]
+      },
+      {
+        "name": "* nu. Cyg",
+        "hip": 103413,
+        "pos": [
+          0.2483,
+          0.4842
+        ]
+      },
+      {
+        "name": "ζ Cygni",
+        "hip": 104732,
+        "pos": [
+          0.1542,
+          0.8286
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        8,
+        9
+      ]
+    ]
+  },
+  {
+    "name": "Lyra",
+    "subtitle": "The Lyre",
+    "best_months": "July – October",
+    "description": "Lyra, the lyre of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "Vega",
+        "hip": 91262,
+        "pos": [
+          0.7545,
+          0.2017
+        ]
+      },
+      {
+        "name": "* eps01 Lyr",
+        "hip": 91919,
+        "pos": [
+          0.5833,
+          0.1
+        ]
+      },
+      {
+        "name": "ζ¹ Lyrae",
+        "hip": 91971,
+        "pos": [
+          0.5733,
+          0.3367
+        ]
+      },
+      {
+        "name": "δ² Lyrae",
+        "hip": 92791,
+        "pos": [
+          0.3482,
+          0.4176
+        ]
+      },
+      {
+        "name": "Sulafat",
+        "hip": 93194,
+        "pos": [
+          0.2455,
+          0.9
+        ]
+      },
+      {
+        "name": "Sheliak",
+        "hip": 92420,
+        "pos": [
+          0.4505,
+          0.8229
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ]
+    ]
+  },
+  {
+    "name": "Gemini",
+    "subtitle": "The Twins",
+    "best_months": "January – April",
+    "description": "Gemini, the twins of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "Alzirr",
+        "hip": 32362,
+        "pos": [
+          0.5746,
+          0.863
+        ]
+      },
+      {
+        "name": "υ Geminorum",
+        "hip": 35350,
+        "pos": [
+          0.3152,
+          0.7374
+        ]
+      },
+      {
+        "name": "Wasat",
+        "hip": 35550,
+        "pos": [
+          0.2992,
+          0.5498
+        ]
+      },
+      {
+        "name": "Mekbuda",
+        "hip": 34088,
+        "pos": [
+          0.4258,
+          0.5985
+        ]
+      },
+      {
+        "name": "Alhena",
+        "hip": 31681,
+        "pos": [
+          0.6345,
+          0.7422
+        ]
+      },
+      {
+        "name": "HIP 36962",
+        "hip": 36962,
+        "pos": [
+          0.1743,
+          0.3805
+        ]
+      },
+      {
+        "name": "κ Geminorum",
+        "hip": 37740,
+        "pos": [
+          0.1069,
+          0.4666
+        ]
+      },
+      {
+        "name": "Pollux",
+        "hip": 37826,
+        "pos": [
+          0.1,
+          0.3416
+        ]
+      },
+      {
+        "name": "ι Geminorum",
+        "hip": 36046,
+        "pos": [
+          0.2549,
+          0.3494
+        ]
+      },
+      {
+        "name": "τ Geminorum",
+        "hip": 34693,
+        "pos": [
+          0.3702,
+          0.2651
+        ]
+      },
+      {
+        "name": "Castor",
+        "hip": 36850,
+        "pos": [
+          0.1848,
+          0.2085
+        ]
+      },
+      {
+        "name": "θ Geminorum",
+        "hip": 33018,
+        "pos": [
+          0.5153,
+          0.137
+        ]
+      },
+      {
+        "name": "Mebsuta",
+        "hip": 32246,
+        "pos": [
+          0.5853,
+          0.4413
+        ]
+      },
+      {
+        "name": "ν Geminorum",
+        "hip": 30883,
+        "pos": [
+          0.7036,
+          0.6108
+        ]
+      },
+      {
+        "name": "Tejat",
+        "hip": 30343,
+        "pos": [
+          0.7511,
+          0.5315
+        ]
+      },
+      {
+        "name": "Propus",
+        "hip": 29655,
+        "pos": [
+          0.815,
+          0.5318
+        ]
+      },
+      {
+        "name": "1 Geminorum",
+        "hip": 28734,
+        "pos": [
+          0.9,
+          0.5057
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        9,
+        11
+      ],
+      [
+        9,
+        12
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        12,
+        14
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        15,
+        16
+      ]
+    ]
+  },
+  {
+    "name": "Taurus",
+    "subtitle": "The Bull",
+    "best_months": "December – March",
+    "description": "Taurus, the bull of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "Tianguan",
+        "hip": 26451,
+        "pos": [
+          0.1,
+          0.3348
+        ]
+      },
+      {
+        "name": "Aldebaran",
+        "hip": 21421,
+        "pos": [
+          0.4717,
+          0.4501
+        ]
+      },
+      {
+        "name": "θ² Tauri",
+        "hip": 20894,
+        "pos": [
+          0.5155,
+          0.466
+        ]
+      },
+      {
+        "name": "Prima Hyadum",
+        "hip": 20205,
+        "pos": [
+          0.5689,
+          0.4721
+        ]
+      },
+      {
+        "name": "Secunda Hyadum",
+        "hip": 20455,
+        "pos": [
+          0.55,
+          0.4244
+        ]
+      },
+      {
+        "name": "Ain",
+        "hip": 20889,
+        "pos": [
+          0.5157,
+          0.3837
+        ]
+      },
+      {
+        "name": "Elnath",
+        "hip": 25428,
+        "pos": [
+          0.1684,
+          0.1491
+        ]
+      },
+      {
+        "name": "* ksi Tau",
+        "hip": 16083,
+        "pos": [
+          0.8858,
+          0.6187
+        ]
+      },
+      {
+        "name": "* nu. Tau",
+        "hip": 18907,
+        "pos": [
+          0.6691,
+          0.7119
+        ]
+      },
+      {
+        "name": "ο Tauri",
+        "hip": 15900,
+        "pos": [
+          0.9,
+          0.6363
+        ]
+      },
+      {
+        "name": "*  10 Tau",
+        "hip": 16852,
+        "pos": [
+          0.8274,
+          0.8509
+        ]
+      },
+      {
+        "name": "λ Tauri",
+        "hip": 18724,
+        "pos": [
+          0.684,
+          0.5501
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        11
+      ],
+      [
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "name": "Canis Major",
+    "subtitle": "The Greater Dog",
+    "best_months": "January – April",
+    "description": "Canis Major, the greater dog of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "Mirzam",
+        "hip": 30324,
+        "pos": [
+          0.8327,
+          0.3742
+        ]
+      },
+      {
+        "name": "Sirius",
+        "hip": 32349,
+        "pos": [
+          0.5893,
+          0.3166
+        ]
+      },
+      {
+        "name": "Wezen",
+        "hip": 34444,
+        "pos": [
+          0.3375,
+          0.7652
+        ]
+      },
+      {
+        "name": "Adhara",
+        "hip": 33579,
+        "pos": [
+          0.4433,
+          0.8847
+        ]
+      },
+      {
+        "name": "Aludra",
+        "hip": 35904,
+        "pos": [
+          0.1673,
+          0.9
+        ]
+      },
+      {
+        "name": "ν² Canis Majoris",
+        "hip": 31592,
+        "pos": [
+          0.6812,
+          0.4344
+        ]
+      },
+      {
+        "name": "ω Canis Majoris",
+        "hip": 33152,
+        "pos": [
+          0.492,
+          0.6628
+        ]
+      },
+      {
+        "name": "ο¹ Canis Majoris",
+        "hip": 33347,
+        "pos": [
+          0.4703,
+          0.3324
+        ]
+      },
+      {
+        "name": "Muliphein",
+        "hip": 34045,
+        "pos": [
+          0.3877,
+          0.2666
+        ]
+      },
+      {
+        "name": "ν³ Canis Majoris",
+        "hip": 33160,
+        "pos": [
+          0.4914,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        8,
+        9
+      ]
+    ]
+  },
+  {
+    "name": "Auriga",
+    "subtitle": "The Charioteer",
+    "best_months": "December – March",
+    "description": "Auriga, the charioteer of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "Elnath",
+        "hip": 25428,
+        "pos": [
+          0.5121,
+          0.9
+        ]
+      },
+      {
+        "name": "* iot Aur",
+        "hip": 23015,
+        "pos": [
+          0.6831,
+          0.758
+        ]
+      },
+      {
+        "name": "* eta Aur",
+        "hip": 23767,
+        "pos": [
+          0.6275,
+          0.5066
+        ]
+      },
+      {
+        "name": "* alf Aur",
+        "hip": 24608,
+        "pos": [
+          0.5681,
+          0.3582
+        ]
+      },
+      {
+        "name": "* bet Aur",
+        "hip": 28360,
+        "pos": [
+          0.318,
+          0.3909
+        ]
+      },
+      {
+        "name": "* tet Aur",
+        "hip": 28380,
+        "pos": [
+          0.3169,
+          0.6319
+        ]
+      },
+      {
+        "name": "* zet Aur",
+        "hip": 23453,
+        "pos": [
+          0.6511,
+          0.5115
+        ]
+      },
+      {
+        "name": "* eps Aur",
+        "hip": 23416,
+        "pos": [
+          0.6541,
+          0.4259
+        ]
+      },
+      {
+        "name": "* del Aur",
+        "hip": 28358,
+        "pos": [
+          0.318,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        6,
+        7
+      ]
+    ]
+  },
+  {
+    "name": "Andromeda",
+    "subtitle": "The Chained Maiden",
+    "best_months": "October – January",
+    "description": "Andromeda, the chained maiden of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf And",
+        "hip": 677,
+        "pos": [
+          0.6078,
+          0.6507
+        ]
+      },
+      {
+        "name": "* del And",
+        "hip": 3092,
+        "pos": [
+          0.4718,
+          0.6122
+        ]
+      },
+      {
+        "name": "* bet And",
+        "hip": 5447,
+        "pos": [
+          0.3381,
+          0.5087
+        ]
+      },
+      {
+        "name": "* gam01 And",
+        "hip": 9640,
+        "pos": [
+          0.1,
+          0.3629
+        ]
+      },
+      {
+        "name": "* omi And",
+        "hip": 113726,
+        "pos": [
+          0.9,
+          0.363
+        ]
+      },
+      {
+        "name": "* iot And",
+        "hip": 116631,
+        "pos": [
+          0.7408,
+          0.3425
+        ]
+      },
+      {
+        "name": "* kap And",
+        "hip": 116805,
+        "pos": [
+          0.7308,
+          0.3193
+        ]
+      },
+      {
+        "name": "* lam And",
+        "hip": 116584,
+        "pos": [
+          0.7433,
+          0.2731
+        ]
+      },
+      {
+        "name": "* pi. And",
+        "hip": 2912,
+        "pos": [
+          0.4825,
+          0.5501
+        ]
+      },
+      {
+        "name": "* mu. And",
+        "hip": 4436,
+        "pos": [
+          0.3952,
+          0.4462
+        ]
+      },
+      {
+        "name": "* nu. And",
+        "hip": 3881,
+        "pos": [
+          0.4257,
+          0.3901
+        ]
+      },
+      {
+        "name": "* phi And",
+        "hip": 5434,
+        "pos": [
+          0.3391,
+          0.2561
+        ]
+      },
+      {
+        "name": "* ups Per",
+        "hip": 7607,
+        "pos": [
+          0.2139,
+          0.2259
+        ]
+      },
+      {
+        "name": "* eps And",
+        "hip": 3031,
+        "pos": [
+          0.4752,
+          0.6459
+        ]
+      },
+      {
+        "name": "* zet And",
+        "hip": 3693,
+        "pos": [
+          0.4366,
+          0.7556
+        ]
+      },
+      {
+        "name": "* eta And",
+        "hip": 4463,
+        "pos": [
+          0.3932,
+          0.7741
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        9
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        14,
+        15
+      ]
+    ]
+  },
+  {
+    "name": "Antlia",
+    "subtitle": "The Air Pump",
+    "best_months": "March – June",
+    "description": "Antlia, the air pump of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* iot Ant",
+        "hip": 53502,
+        "pos": [
+          0.1,
+          0.6341
+        ]
+      },
+      {
+        "name": "* alf Ant",
+        "hip": 51172,
+        "pos": [
+          0.3704,
+          0.3659
+        ]
+      },
+      {
+        "name": "* eps Ant",
+        "hip": 46515,
+        "pos": [
+          0.9,
+          0.5817
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "Apus",
+    "subtitle": "The Bird of Paradise",
+    "best_months": "June – September (low / not visible above ~42° N)",
+    "description": "Apus, the bird of paradise of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Aps",
+        "hip": 72370,
+        "pos": [
+          0.9,
+          0.6044
+        ]
+      },
+      {
+        "name": "* gam Aps",
+        "hip": 81065,
+        "pos": [
+          0.1668,
+          0.5842
+        ]
+      },
+      {
+        "name": "* del01 Aps",
+        "hip": 80047,
+        "pos": [
+          0.2578,
+          0.5567
+        ]
+      },
+      {
+        "name": "* bet Aps",
+        "hip": 81852,
+        "pos": [
+          0.1,
+          0.3956
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Aquila",
+    "subtitle": "The Eagle",
+    "best_months": "July – October",
+    "description": "Aquila, the eagle of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* bet Aql",
+        "hip": 98036,
+        "pos": [
+          0.3098,
+          0.433
+        ]
+      },
+      {
+        "name": "* alf Aql",
+        "hip": 97649,
+        "pos": [
+          0.3532,
+          0.3384
+        ]
+      },
+      {
+        "name": "* gam Aql",
+        "hip": 97278,
+        "pos": [
+          0.3966,
+          0.2713
+        ]
+      },
+      {
+        "name": "* del Aql",
+        "hip": 95501,
+        "pos": [
+          0.5955,
+          0.5596
+        ]
+      },
+      {
+        "name": "* lam Aql",
+        "hip": 93805,
+        "pos": [
+          0.7799,
+          0.8671
+        ]
+      },
+      {
+        "name": "* zet Aql",
+        "hip": 93747,
+        "pos": [
+          0.7879,
+          0.1463
+        ]
+      },
+      {
+        "name": "* eta Aql",
+        "hip": 97804,
+        "pos": [
+          0.3371,
+          0.6407
+        ]
+      },
+      {
+        "name": "* tet Aql",
+        "hip": 99473,
+        "pos": [
+          0.1566,
+          0.7109
+        ]
+      },
+      {
+        "name": "* eps Aql",
+        "hip": 93244,
+        "pos": [
+          0.8434,
+          0.1
+        ]
+      },
+      {
+        "name": "* i Aql",
+        "hip": 93429,
+        "pos": [
+          0.8236,
+          0.9
+        ]
+      },
+      {
+        "name": "* iot Aql",
+        "hip": 96468,
+        "pos": [
+          0.488,
+          0.7288
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        10
+      ]
+    ]
+  },
+  {
+    "name": "Aquarius",
+    "subtitle": "The Water Bearer",
+    "best_months": "September – December",
+    "description": "Aquarius, the water bearer of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* eps Aqr",
+        "hip": 102618,
+        "pos": [
+          0.9,
+          0.4916
+        ]
+      },
+      {
+        "name": "* bet Aqr",
+        "hip": 106278,
+        "pos": [
+          0.6739,
+          0.4095
+        ]
+      },
+      {
+        "name": "* alf Aqr",
+        "hip": 109074,
+        "pos": [
+          0.4976,
+          0.2997
+        ]
+      },
+      {
+        "name": "* gam Aqr",
+        "hip": 110395,
+        "pos": [
+          0.4159,
+          0.322
+        ]
+      },
+      {
+        "name": "* zet Aqr",
+        "hip": 110960,
+        "pos": [
+          0.3789,
+          0.2934
+        ]
+      },
+      {
+        "name": "* eta Aqr",
+        "hip": 111497,
+        "pos": [
+          0.3453,
+          0.2954
+        ]
+      },
+      {
+        "name": "* pi. Aqr",
+        "hip": 110672,
+        "pos": [
+          0.3972,
+          0.2642
+        ]
+      },
+      {
+        "name": "* iot Aqr",
+        "hip": 109139,
+        "pos": [
+          0.4943,
+          0.5831
+        ]
+      },
+      {
+        "name": "* tet Aqr",
+        "hip": 110003,
+        "pos": [
+          0.4407,
+          0.4558
+        ]
+      },
+      {
+        "name": "* lam Aqr",
+        "hip": 112961,
+        "pos": [
+          0.2564,
+          0.4515
+        ]
+      },
+      {
+        "name": "* phi Aqr",
+        "hip": 114724,
+        "pos": [
+          0.1445,
+          0.4195
+        ]
+      },
+      {
+        "name": "* psi02 Aqr",
+        "hip": 115033,
+        "pos": [
+          0.1261,
+          0.485
+        ]
+      },
+      {
+        "name": "* b01 Aqr",
+        "hip": 115438,
+        "pos": [
+          0.1,
+          0.7134
+        ]
+      },
+      {
+        "name": "* c02 Aqr",
+        "hip": 114341,
+        "pos": [
+          0.1697,
+          0.7358
+        ]
+      },
+      {
+        "name": "* del Aqr",
+        "hip": 113136,
+        "pos": [
+          0.2459,
+          0.6239
+        ]
+      },
+      {
+        "name": "* tau Aqr",
+        "hip": 112716,
+        "pos": [
+          0.272,
+          0.5773
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        9,
+        15
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        11,
+        13
+      ],
+      [
+        11,
+        14
+      ],
+      [
+        14,
+        15
+      ]
+    ]
+  },
+  {
+    "name": "Ara",
+    "subtitle": "The Altar",
+    "best_months": "June – September (low / not visible above ~42° N)",
+    "description": "Ara, the altar of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* gam Ara",
+        "hip": 85267,
+        "pos": [
+          0.5293,
+          0.5803
+        ]
+      },
+      {
+        "name": "* del Ara",
+        "hip": 85727,
+        "pos": [
+          0.4699,
+          0.8951
+        ]
+      },
+      {
+        "name": "* eta Ara",
+        "hip": 82363,
+        "pos": [
+          0.9,
+          0.775
+        ]
+      },
+      {
+        "name": "* zet Ara",
+        "hip": 83081,
+        "pos": [
+          0.808,
+          0.5519
+        ]
+      },
+      {
+        "name": "* eps01 Ara",
+        "hip": 83153,
+        "pos": [
+          0.798,
+          0.345
+        ]
+      },
+      {
+        "name": "* alf Ara",
+        "hip": 85792,
+        "pos": [
+          0.4622,
+          0.1049
+        ]
+      },
+      {
+        "name": "* tet Ara",
+        "hip": 88714,
+        "pos": [
+          0.1,
+          0.1207
+        ]
+      },
+      {
+        "name": "* bet Ara",
+        "hip": 85258,
+        "pos": [
+          0.5303,
+          0.5183
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        7
+      ]
+    ]
+  },
+  {
+    "name": "Aries",
+    "subtitle": "The Ram",
+    "best_months": "November – February",
+    "description": "Aries, the ram of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* gam Ari",
+        "hip": 8832,
+        "pos": [
+          0.9,
+          0.7458
+        ]
+      },
+      {
+        "name": "* bet Ari",
+        "hip": 8903,
+        "pos": [
+          0.8843,
+          0.6524
+        ]
+      },
+      {
+        "name": "* alf Ari",
+        "hip": 9884,
+        "pos": [
+          0.7067,
+          0.4886
+        ]
+      },
+      {
+        "name": "*  41 Ari",
+        "hip": 13209,
+        "pos": [
+          0.1,
+          0.2542
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Boötes",
+    "subtitle": "The Herdsman",
+    "best_months": "May – August",
+    "description": "Boötes, the herdsman of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Boo",
+        "hip": 69673,
+        "pos": [
+          0.5693,
+          0.7855
+        ]
+      },
+      {
+        "name": "* eps Boo",
+        "hip": 72105,
+        "pos": [
+          0.44,
+          0.6199
+        ]
+      },
+      {
+        "name": "* del Boo",
+        "hip": 74666,
+        "pos": [
+          0.3054,
+          0.489
+        ]
+      },
+      {
+        "name": "* bet Boo",
+        "hip": 73555,
+        "pos": [
+          0.3652,
+          0.3405
+        ]
+      },
+      {
+        "name": "* gam Boo",
+        "hip": 71075,
+        "pos": [
+          0.4969,
+          0.3842
+        ]
+      },
+      {
+        "name": "* rho Boo",
+        "hip": 71053,
+        "pos": [
+          0.498,
+          0.5507
+        ]
+      },
+      {
+        "name": "* eta Boo",
+        "hip": 67927,
+        "pos": [
+          0.6619,
+          0.802
+        ]
+      },
+      {
+        "name": "* tau Boo",
+        "hip": 67275,
+        "pos": [
+          0.6946,
+          0.8218
+        ]
+      },
+      {
+        "name": "* zet Boo",
+        "hip": 71795,
+        "pos": [
+          0.4569,
+          0.9
+        ]
+      },
+      {
+        "name": "* lam Boo",
+        "hip": 69732,
+        "pos": [
+          0.5662,
+          0.2209
+        ]
+      },
+      {
+        "name": "* tet Boo",
+        "hip": 70497,
+        "pos": [
+          0.5273,
+          0.1
+        ]
+      },
+      {
+        "name": "* kap02 Boo",
+        "hip": 69483,
+        "pos": [
+          0.5789,
+          0.1013
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        9,
+        11
+      ],
+      [
+        10,
+        11
+      ]
+    ]
+  },
+  {
+    "name": "Canis Minor",
+    "subtitle": "The Lesser Dog",
+    "best_months": "January – April",
+    "description": "Canis Minor, the lesser dog of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf CMi",
+        "hip": 37279,
+        "pos": [
+          0.1062,
+          0.9
+        ]
+      },
+      {
+        "name": "* bet CMi",
+        "hip": 36188,
+        "pos": [
+          0.8938,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "name": "Canes Venatici",
+    "subtitle": "The Hunting Dogs",
+    "best_months": "April – July",
+    "description": "Canes Venatici, the hunting dogs of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf02 CVn",
+        "hip": 63125,
+        "pos": [
+          0.1,
+          0.7842
+        ]
+      },
+      {
+        "name": "* bet CVn",
+        "hip": 61317,
+        "pos": [
+          0.9,
+          0.2158
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "name": "Caelum",
+    "subtitle": "The Chisel",
+    "best_months": "December – March",
+    "description": "Caelum, the chisel of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* gam Cae",
+        "hip": 23595,
+        "pos": [
+          0.2293,
+          0.1
+        ]
+      },
+      {
+        "name": "* bet Cae",
+        "hip": 21861,
+        "pos": [
+          0.5897,
+          0.2403
+        ]
+      },
+      {
+        "name": "* alf Cae",
+        "hip": 21770,
+        "pos": [
+          0.6138,
+          0.639
+        ]
+      },
+      {
+        "name": "* del Cae",
+        "hip": 21060,
+        "pos": [
+          0.7707,
+          0.9
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Camelopardalis",
+    "subtitle": "The Giraffe",
+    "best_months": "December – March",
+    "description": "Camelopardalis, the giraffe of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "*   7 Cam",
+        "hip": 23040,
+        "pos": [
+          0.562,
+          0.9
+        ]
+      },
+      {
+        "name": "* bet Cam",
+        "hip": 23522,
+        "pos": [
+          0.54,
+          0.6696
+        ]
+      },
+      {
+        "name": "* alf Cam",
+        "hip": 22783,
+        "pos": [
+          0.5737,
+          0.4663
+        ]
+      },
+      {
+        "name": "HD  42818",
+        "hip": 29997,
+        "pos": [
+          0.2693,
+          0.3638
+        ]
+      },
+      {
+        "name": "HD  49878",
+        "hip": 33694,
+        "pos": [
+          0.1213,
+          0.1
+        ]
+      },
+      {
+        "name": "* gam Cam",
+        "hip": 17959,
+        "pos": [
+          0.8023,
+          0.2944
+        ]
+      },
+      {
+        "name": "V* BE Cam",
+        "hip": 17884,
+        "pos": [
+          0.8053,
+          0.4944
+        ]
+      },
+      {
+        "name": "HD  21291",
+        "hip": 16228,
+        "pos": [
+          0.8787,
+          0.6868
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ]
+    ]
+  },
+  {
+    "name": "Capricornus",
+    "subtitle": "The Sea Goat",
+    "best_months": "August – November",
+    "description": "Capricornus, the sea goat of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf02 Cap",
+        "hip": 100064,
+        "pos": [
+          0.9,
+          0.2254
+        ]
+      },
+      {
+        "name": "* bet01 Cap",
+        "hip": 100345,
+        "pos": [
+          0.8734,
+          0.3109
+        ]
+      },
+      {
+        "name": "* psi Cap",
+        "hip": 102485,
+        "pos": [
+          0.6479,
+          0.7116
+        ]
+      },
+      {
+        "name": "* ome Cap",
+        "hip": 102978,
+        "pos": [
+          0.5964,
+          0.7746
+        ]
+      },
+      {
+        "name": "* zet Cap",
+        "hip": 105881,
+        "pos": [
+          0.2832,
+          0.6024
+        ]
+      },
+      {
+        "name": "* eps Cap",
+        "hip": 106723,
+        "pos": [
+          0.1895,
+          0.4898
+        ]
+      },
+      {
+        "name": "* del Cap",
+        "hip": 107556,
+        "pos": [
+          0.1,
+          0.3623
+        ]
+      },
+      {
+        "name": "* gam Cap",
+        "hip": 106985,
+        "pos": [
+          0.1625,
+          0.3827
+        ]
+      },
+      {
+        "name": "* tet Cap",
+        "hip": 104139,
+        "pos": [
+          0.4694,
+          0.4045
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ]
+    ]
+  },
+  {
+    "name": "Carina",
+    "subtitle": "The Keel",
+    "best_months": "February – May (low / not visible above ~42° N)",
+    "description": "Carina, the keel of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Car",
+        "hip": 30438,
+        "pos": [
+          0.9,
+          0.3722
+        ]
+      },
+      {
+        "name": "* bet Car",
+        "hip": 45238,
+        "pos": [
+          0.4309,
+          0.7353
+        ]
+      },
+      {
+        "name": "* ome Car",
+        "hip": 50099,
+        "pos": [
+          0.2631,
+          0.7421
+        ]
+      },
+      {
+        "name": "* tet Car",
+        "hip": 52419,
+        "pos": [
+          0.1822,
+          0.6217
+        ]
+      },
+      {
+        "name": "* p Car",
+        "hip": 51576,
+        "pos": [
+          0.2125,
+          0.564
+        ]
+      },
+      {
+        "name": "* q Car",
+        "hip": 50371,
+        "pos": [
+          0.2539,
+          0.5564
+        ]
+      },
+      {
+        "name": "* iot Car",
+        "hip": 45556,
+        "pos": [
+          0.4201,
+          0.5125
+        ]
+      },
+      {
+        "name": "* del01 Vel",
+        "hip": 42913,
+        "pos": [
+          0.5099,
+          0.4151
+        ]
+      },
+      {
+        "name": "* u Car",
+        "hip": 53253,
+        "pos": [
+          0.153,
+          0.5035
+        ]
+      },
+      {
+        "name": "* z Car",
+        "hip": 54301,
+        "pos": [
+          0.1168,
+          0.5797
+        ]
+      },
+      {
+        "name": "* y Car",
+        "hip": 54751,
+        "pos": [
+          0.1,
+          0.5348
+        ]
+      },
+      {
+        "name": "* x Car",
+        "hip": 54463,
+        "pos": [
+          0.1111,
+          0.5061
+        ]
+      },
+      {
+        "name": "* eps Car",
+        "hip": 41037,
+        "pos": [
+          0.5714,
+          0.5175
+        ]
+      },
+      {
+        "name": "* chi Car",
+        "hip": 38827,
+        "pos": [
+          0.6427,
+          0.3783
+        ]
+      },
+      {
+        "name": "* gam02 Vel",
+        "hip": 39953,
+        "pos": [
+          0.6074,
+          0.2579
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        12
+      ],
+      [
+        8,
+        11
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ]
+    ]
+  },
+  {
+    "name": "Centaurus",
+    "subtitle": "The Centaur",
+    "best_months": "April – July",
+    "description": "Centaurus, the centaur of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* gam Cen",
+        "hip": 61932,
+        "pos": [
+          0.6048,
+          0.5079
+        ]
+      },
+      {
+        "name": "* eps Cen",
+        "hip": 66657,
+        "pos": [
+          0.3907,
+          0.6079
+        ]
+      },
+      {
+        "name": "* bet Cen",
+        "hip": 68702,
+        "pos": [
+          0.3029,
+          0.7611
+        ]
+      },
+      {
+        "name": "* alf Cen A",
+        "hip": 71683,
+        "pos": [
+          0.1717,
+          0.7713
+        ]
+      },
+      {
+        "name": "* zet Cen",
+        "hip": 68002,
+        "pos": [
+          0.3333,
+          0.4709
+        ]
+      },
+      {
+        "name": "* ups01 Cen",
+        "hip": 68282,
+        "pos": [
+          0.3218,
+          0.4157
+        ]
+      },
+      {
+        "name": "* phi Cen",
+        "hip": 68245,
+        "pos": [
+          0.3233,
+          0.3558
+        ]
+      },
+      {
+        "name": "* eta Cen",
+        "hip": 71352,
+        "pos": [
+          0.1867,
+          0.3571
+        ]
+      },
+      {
+        "name": "* chi Cen",
+        "hip": 68862,
+        "pos": [
+          0.2948,
+          0.3354
+        ]
+      },
+      {
+        "name": "* psi Cen",
+        "hip": 70090,
+        "pos": [
+          0.2416,
+          0.2623
+        ]
+      },
+      {
+        "name": "* tet Cen",
+        "hip": 68933,
+        "pos": [
+          0.2924,
+          0.2287
+        ]
+      },
+      {
+        "name": "* nu. Cen",
+        "hip": 67464,
+        "pos": [
+          0.3554,
+          0.3466
+        ]
+      },
+      {
+        "name": "* pi. Cen",
+        "hip": 55425,
+        "pos": [
+          0.9,
+          0.6306
+        ]
+      },
+      {
+        "name": "* del Cen",
+        "hip": 59196,
+        "pos": [
+          0.7264,
+          0.547
+        ]
+      },
+      {
+        "name": "* sig Cen",
+        "hip": 60823,
+        "pos": [
+          0.6542,
+          0.5361
+        ]
+      },
+      {
+        "name": "* rho Cen",
+        "hip": 59449,
+        "pos": [
+          0.7143,
+          0.5835
+        ]
+      },
+      {
+        "name": "* omi01 Cen",
+        "hip": 56243,
+        "pos": [
+          0.8605,
+          0.7405
+        ]
+      },
+      {
+        "name": "* d Cen",
+        "hip": 65936,
+        "pos": [
+          0.4231,
+          0.296
+        ]
+      },
+      {
+        "name": "* iot Cen",
+        "hip": 65109,
+        "pos": [
+          0.4614,
+          0.2363
+        ]
+      },
+      {
+        "name": "* l Cen",
+        "hip": 61789,
+        "pos": [
+          0.6108,
+          0.3089
+        ]
+      },
+      {
+        "name": "* kap Cen",
+        "hip": 73334,
+        "pos": [
+          0.1,
+          0.3559
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        14
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        11
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        20
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        17
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        15,
+        16
+      ],
+      [
+        17,
+        18
+      ],
+      [
+        18,
+        19
+      ]
+    ]
+  },
+  {
+    "name": "Cepheus",
+    "subtitle": "The King",
+    "best_months": "August – November",
+    "description": "Cepheus, the king of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* eta Cep",
+        "hip": 102422,
+        "pos": [
+          0.7963,
+          0.7137
+        ]
+      },
+      {
+        "name": "* alf Cep",
+        "hip": 105199,
+        "pos": [
+          0.6717,
+          0.6847
+        ]
+      },
+      {
+        "name": "* bet Cep",
+        "hip": 106032,
+        "pos": [
+          0.634,
+          0.3748
+        ]
+      },
+      {
+        "name": "* iot Cep",
+        "hip": 112724,
+        "pos": [
+          0.3308,
+          0.5442
+        ]
+      },
+      {
+        "name": "* gam Cep",
+        "hip": 116727,
+        "pos": [
+          0.1449,
+          0.1
+        ]
+      },
+      {
+        "name": "* del Cep",
+        "hip": 110991,
+        "pos": [
+          0.4075,
+          0.8467
+        ]
+      },
+      {
+        "name": "* zet Cep",
+        "hip": 109492,
+        "pos": [
+          0.4761,
+          0.855
+        ]
+      },
+      {
+        "name": "* eps Cep",
+        "hip": 109857,
+        "pos": [
+          0.4604,
+          0.9
+        ]
+      },
+      {
+        "name": "* mu. Cep",
+        "hip": 107259,
+        "pos": [
+          0.5784,
+          0.8325
+        ]
+      },
+      {
+        "name": "* tet Cep",
+        "hip": 101093,
+        "pos": [
+          0.8551,
+          0.6688
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        9
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ]
+    ]
+  },
+  {
+    "name": "Cetus",
+    "subtitle": "The Sea Monster",
+    "best_months": "November – February",
+    "description": "Cetus, the sea monster of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* gam Cet",
+        "hip": 12706,
+        "pos": [
+          0.1932,
+          0.3587
+        ]
+      },
+      {
+        "name": "* alf Cet",
+        "hip": 14135,
+        "pos": [
+          0.1,
+          0.3419
+        ]
+      },
+      {
+        "name": "* lam Cet",
+        "hip": 13954,
+        "pos": [
+          0.1126,
+          0.247
+        ]
+      },
+      {
+        "name": "* mu. Cet",
+        "hip": 12828,
+        "pos": [
+          0.1852,
+          0.2233
+        ]
+      },
+      {
+        "name": "* ksi02 Cet",
+        "hip": 11484,
+        "pos": [
+          0.2676,
+          0.2558
+        ]
+      },
+      {
+        "name": "* del Cet",
+        "hip": 12387,
+        "pos": [
+          0.212,
+          0.416
+        ]
+      },
+      {
+        "name": "* omi Cet",
+        "hip": 10826,
+        "pos": [
+          0.3109,
+          0.4811
+        ]
+      },
+      {
+        "name": "* zet Cet",
+        "hip": 8645,
+        "pos": [
+          0.4479,
+          0.626
+        ]
+      },
+      {
+        "name": "* tau Cet",
+        "hip": 8102,
+        "pos": [
+          0.4842,
+          0.7364
+        ]
+      },
+      {
+        "name": "* bet Cet",
+        "hip": 3419,
+        "pos": [
+          0.7813,
+          0.7767
+        ]
+      },
+      {
+        "name": "* iot Cet",
+        "hip": 1562,
+        "pos": [
+          0.9,
+          0.5963
+        ]
+      },
+      {
+        "name": "* eta Cet",
+        "hip": 5364,
+        "pos": [
+          0.6585,
+          0.623
+        ]
+      },
+      {
+        "name": "* tet Cet",
+        "hip": 6537,
+        "pos": [
+          0.5827,
+          0.5837
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        12
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ]
+    ]
+  },
+  {
+    "name": "Chamaeleon",
+    "subtitle": "The Chameleon",
+    "best_months": "March – June (low / not visible above ~42° N)",
+    "description": "Chamaeleon, the chameleon of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Cha",
+        "hip": 40702,
+        "pos": [
+          0.9,
+          0.3764
+        ]
+      },
+      {
+        "name": "* gam Cha",
+        "hip": 51839,
+        "pos": [
+          0.4432,
+          0.4917
+        ]
+      },
+      {
+        "name": "* del02 Cha",
+        "hip": 52633,
+        "pos": [
+          0.4088,
+          0.6236
+        ]
+      },
+      {
+        "name": "* bet Cha",
+        "hip": 60000,
+        "pos": [
+          0.1,
+          0.5398
+        ]
+      },
+      {
+        "name": "* eps Cha",
+        "hip": 58484,
+        "pos": [
+          0.1624,
+          0.4653
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "Circinus",
+    "subtitle": "The Drawing Compass",
+    "best_months": "May – August (low / not visible above ~42° N)",
+    "description": "Circinus, the drawing compass of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* bet Cir",
+        "hip": 74824,
+        "pos": [
+          0.2776,
+          0.1
+        ]
+      },
+      {
+        "name": "* alf Cir",
+        "hip": 71908,
+        "pos": [
+          0.8119,
+          0.9
+        ]
+      },
+      {
+        "name": "* gam Cir",
+        "hip": 75323,
+        "pos": [
+          0.1881,
+          0.1673
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "Cancer",
+    "subtitle": "The Crab",
+    "best_months": "February – May",
+    "description": "Cancer, the crab of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Cnc",
+        "hip": 44066,
+        "pos": [
+          0.2972,
+          0.7908
+        ]
+      },
+      {
+        "name": "* del Cnc",
+        "hip": 42911,
+        "pos": [
+          0.4306,
+          0.5334
+        ]
+      },
+      {
+        "name": "* bet Cnc",
+        "hip": 40526,
+        "pos": [
+          0.7028,
+          0.9
+        ]
+      },
+      {
+        "name": "* gam Cnc",
+        "hip": 42806,
+        "pos": [
+          0.4441,
+          0.398
+        ]
+      },
+      {
+        "name": "* iot Cnc",
+        "hip": 43103,
+        "pos": [
+          0.4111,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "Columba",
+    "subtitle": "The Dove",
+    "best_months": "December – March",
+    "description": "Columba, the dove of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Col",
+        "hip": 26634,
+        "pos": [
+          0.7674,
+          0.1762
+        ]
+      },
+      {
+        "name": "* bet Col",
+        "hip": 27628,
+        "pos": [
+          0.5896,
+          0.3116
+        ]
+      },
+      {
+        "name": "* eps Col",
+        "hip": 25859,
+        "pos": [
+          0.9,
+          0.2878
+        ]
+      },
+      {
+        "name": "* eta Col",
+        "hip": 28328,
+        "pos": [
+          0.461,
+          0.8748
+        ]
+      },
+      {
+        "name": "* gam Col",
+        "hip": 28199,
+        "pos": [
+          0.4863,
+          0.2728
+        ]
+      },
+      {
+        "name": "* del Col",
+        "hip": 30277,
+        "pos": [
+          0.1,
+          0.1252
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        4,
+        5
+      ]
+    ]
+  },
+  {
+    "name": "Coma Berenices",
+    "subtitle": "Berenice's Hair",
+    "best_months": "April – July",
+    "description": "Coma Berenices, berenice's hair of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Com",
+        "hip": 64241,
+        "pos": [
+          0.1469,
+          0.9
+        ]
+      },
+      {
+        "name": "* bet Com",
+        "hip": 64394,
+        "pos": [
+          0.1145,
+          0.1291
+        ]
+      },
+      {
+        "name": "* gam Com",
+        "hip": 60742,
+        "pos": [
+          0.8855,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "Corona Australis",
+    "subtitle": "The Southern Crown",
+    "best_months": "July – October",
+    "description": "Corona Australis, the southern crown of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* gam CrA",
+        "hip": 93825,
+        "pos": [
+          0.1791,
+          0.2012
+        ]
+      },
+      {
+        "name": "* alf CrA",
+        "hip": 94114,
+        "pos": [
+          0.1122,
+          0.297
+        ]
+      },
+      {
+        "name": "* bet CrA",
+        "hip": 94160,
+        "pos": [
+          0.1,
+          0.4605
+        ]
+      },
+      {
+        "name": "* del CrA",
+        "hip": 94005,
+        "pos": [
+          0.1368,
+          0.5921
+        ]
+      },
+      {
+        "name": "* tet CrA",
+        "hip": 90982,
+        "pos": [
+          0.9,
+          0.7988
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "Corona Borealis",
+    "subtitle": "The Northern Crown",
+    "best_months": "May – August",
+    "description": "Corona Borealis, the northern crown of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* tet CrB",
+        "hip": 76127,
+        "pos": [
+          0.7786,
+          0.2129
+        ]
+      },
+      {
+        "name": "* bet CrB",
+        "hip": 75695,
+        "pos": [
+          0.9,
+          0.4575
+        ]
+      },
+      {
+        "name": "* alf CrB",
+        "hip": 76267,
+        "pos": [
+          0.7368,
+          0.717
+        ]
+      },
+      {
+        "name": "* gam CrB",
+        "hip": 76952,
+        "pos": [
+          0.5451,
+          0.7625
+        ]
+      },
+      {
+        "name": "* del CrB",
+        "hip": 77512,
+        "pos": [
+          0.382,
+          0.7871
+        ]
+      },
+      {
+        "name": "* eps CrB",
+        "hip": 78159,
+        "pos": [
+          0.1918,
+          0.6993
+        ]
+      },
+      {
+        "name": "* iot CrB",
+        "hip": 78493,
+        "pos": [
+          0.1,
+          0.3765
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ]
+    ]
+  },
+  {
+    "name": "Crater",
+    "subtitle": "The Cup",
+    "best_months": "March – June",
+    "description": "Crater, the cup of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Crt",
+        "hip": 53740,
+        "pos": [
+          0.9,
+          0.6177
+        ]
+      },
+      {
+        "name": "* bet Crt",
+        "hip": 54682,
+        "pos": [
+          0.731,
+          0.886
+        ]
+      },
+      {
+        "name": "* gam Crt",
+        "hip": 55705,
+        "pos": [
+          0.5429,
+          0.5812
+        ]
+      },
+      {
+        "name": "* zet Crt",
+        "hip": 57283,
+        "pos": [
+          0.2601,
+          0.6207
+        ]
+      },
+      {
+        "name": "* eta Crt",
+        "hip": 58188,
+        "pos": [
+          0.1,
+          0.5496
+        ]
+      },
+      {
+        "name": "* del Crt",
+        "hip": 55282,
+        "pos": [
+          0.6217,
+          0.409
+        ]
+      },
+      {
+        "name": "* eps Crt",
+        "hip": 55687,
+        "pos": [
+          0.5467,
+          0.1766
+        ]
+      },
+      {
+        "name": "* tet Crt",
+        "hip": 56633,
+        "pos": [
+          0.375,
+          0.114
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ]
+    ]
+  },
+  {
+    "name": "Crux",
+    "subtitle": "The Southern Cross",
+    "best_months": "April – July (low / not visible above ~42° N)",
+    "description": "Crux, the southern cross of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Cru",
+        "hip": 60718,
+        "pos": [
+          0.5805,
+          0.9
+        ]
+      },
+      {
+        "name": "* gam Cru",
+        "hip": 61084,
+        "pos": [
+          0.5044,
+          0.1
+        ]
+      },
+      {
+        "name": "* bet Cru",
+        "hip": 62434,
+        "pos": [
+          0.2288,
+          0.4442
+        ]
+      },
+      {
+        "name": "* del Cru",
+        "hip": 59747,
+        "pos": [
+          0.7712,
+          0.3186
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Corvus",
+    "subtitle": "The Crow",
+    "best_months": "April – July",
+    "description": "Corvus, the crow of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* del Crv",
+        "hip": 60965,
+        "pos": [
+          0.3071,
+          0.1
+        ]
+      },
+      {
+        "name": "* gam Crv",
+        "hip": 59803,
+        "pos": [
+          0.6275,
+          0.2
+        ]
+      },
+      {
+        "name": "* eps Crv",
+        "hip": 59316,
+        "pos": [
+          0.757,
+          0.6946
+        ]
+      },
+      {
+        "name": "* bet Crv",
+        "hip": 61359,
+        "pos": [
+          0.204,
+          0.7703
+        ]
+      },
+      {
+        "name": "* alf Crv",
+        "hip": 59199,
+        "pos": [
+          0.796,
+          0.9
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "Delphinus",
+    "subtitle": "The Dolphin",
+    "best_months": "August – November",
+    "description": "Delphinus, the dolphin of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* eps Del",
+        "hip": 101421,
+        "pos": [
+          0.7709,
+          0.9
+        ]
+      },
+      {
+        "name": "* bet Del",
+        "hip": 101769,
+        "pos": [
+          0.5962,
+          0.3538
+        ]
+      },
+      {
+        "name": "* alf Del",
+        "hip": 101958,
+        "pos": [
+          0.512,
+          0.1352
+        ]
+      },
+      {
+        "name": "* gam02 Del",
+        "hip": 102532,
+        "pos": [
+          0.2291,
+          0.1
+        ]
+      },
+      {
+        "name": "* del Del",
+        "hip": 102281,
+        "pos": [
+          0.358,
+          0.2742
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "Dorado",
+    "subtitle": "The Dolphinfish",
+    "best_months": "December – March (low / not visible above ~42° N)",
+    "description": "Dorado, the dolphinfish of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* gam Dor",
+        "hip": 19893,
+        "pos": [
+          0.8585,
+          0.1
+        ]
+      },
+      {
+        "name": "* alf Dor",
+        "hip": 21281,
+        "pos": [
+          0.7271,
+          0.2998
+        ]
+      },
+      {
+        "name": "* zet Dor",
+        "hip": 23693,
+        "pos": [
+          0.4967,
+          0.4361
+        ]
+      },
+      {
+        "name": "* bet Dor",
+        "hip": 26069,
+        "pos": [
+          0.2912,
+          0.7178
+        ]
+      },
+      {
+        "name": "* del Dor",
+        "hip": 27100,
+        "pos": [
+          0.2097,
+          0.9
+        ]
+      },
+      {
+        "name": "*  36 Dor",
+        "hip": 27890,
+        "pos": [
+          0.1415,
+          0.7515
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        4,
+        5
+      ]
+    ]
+  },
+  {
+    "name": "Draco",
+    "subtitle": "The Dragon",
+    "best_months": "June – September",
+    "description": "Draco, the dragon of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* lam Dra",
+        "hip": 56211,
+        "pos": [
+          0.9,
+          0.4006
+        ]
+      },
+      {
+        "name": "* kap Dra",
+        "hip": 61281,
+        "pos": [
+          0.8,
+          0.3943
+        ]
+      },
+      {
+        "name": "* alf Dra",
+        "hip": 68756,
+        "pos": [
+          0.6536,
+          0.4688
+        ]
+      },
+      {
+        "name": "* iot Dra",
+        "hip": 75458,
+        "pos": [
+          0.5239,
+          0.5433
+        ]
+      },
+      {
+        "name": "* tet Dra",
+        "hip": 78527,
+        "pos": [
+          0.4644,
+          0.5488
+        ]
+      },
+      {
+        "name": "* eta Dra",
+        "hip": 80331,
+        "pos": [
+          0.4288,
+          0.5082
+        ]
+      },
+      {
+        "name": "* zet Dra",
+        "hip": 83895,
+        "pos": [
+          0.3567,
+          0.4504
+        ]
+      },
+      {
+        "name": "* phi Dra",
+        "hip": 89908,
+        "pos": [
+          0.2408,
+          0.3729
+        ]
+      },
+      {
+        "name": "* chi Dra",
+        "hip": 89937,
+        "pos": [
+          0.2403,
+          0.3537
+        ]
+      },
+      {
+        "name": "* del Dra",
+        "hip": 94376,
+        "pos": [
+          0.1574,
+          0.4236
+        ]
+      },
+      {
+        "name": "* eps Dra",
+        "hip": 97433,
+        "pos": [
+          0.1,
+          0.3877
+        ]
+      },
+      {
+        "name": "* ksi Dra",
+        "hip": 87585,
+        "pos": [
+          0.2846,
+          0.5721
+        ]
+      },
+      {
+        "name": "* nu.02 Dra",
+        "hip": 85829,
+        "pos": [
+          0.3189,
+          0.5955
+        ]
+      },
+      {
+        "name": "* bet Dra",
+        "hip": 85670,
+        "pos": [
+          0.3218,
+          0.6351
+        ]
+      },
+      {
+        "name": "* gam Dra",
+        "hip": 87833,
+        "pos": [
+          0.2797,
+          0.6463
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        9,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        11,
+        14
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ]
+    ]
+  },
+  {
+    "name": "Equuleus",
+    "subtitle": "The Little Horse",
+    "best_months": "August – November",
+    "description": "Equuleus, the little horse of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Equ",
+        "hip": 104987,
+        "pos": [
+          0.3888,
+          0.9
+        ]
+      },
+      {
+        "name": "* del Equ",
+        "hip": 104858,
+        "pos": [
+          0.4433,
+          0.1204
+        ]
+      },
+      {
+        "name": "* gam Equ",
+        "hip": 104521,
+        "pos": [
+          0.6112,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "Eridanus",
+    "subtitle": "The River",
+    "best_months": "November – February",
+    "description": "Eridanus, the river of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* bet Eri",
+        "hip": 23875,
+        "pos": [
+          0.1637,
+          0.1271
+        ]
+      },
+      {
+        "name": "* mu. Eri",
+        "hip": 22109,
+        "pos": [
+          0.2352,
+          0.1
+        ]
+      },
+      {
+        "name": "* nu. Eri",
+        "hip": 21444,
+        "pos": [
+          0.2646,
+          0.1014
+        ]
+      },
+      {
+        "name": "* omi01 Eri",
+        "hip": 19587,
+        "pos": [
+          0.3429,
+          0.1531
+        ]
+      },
+      {
+        "name": "* gam Eri",
+        "hip": 18543,
+        "pos": [
+          0.3872,
+          0.252
+        ]
+      },
+      {
+        "name": "* pi. Eri",
+        "hip": 17593,
+        "pos": [
+          0.4252,
+          0.2311
+        ]
+      },
+      {
+        "name": "* del Eri",
+        "hip": 17378,
+        "pos": [
+          0.4345,
+          0.1965
+        ]
+      },
+      {
+        "name": "* eps Eri",
+        "hip": 16537,
+        "pos": [
+          0.4675,
+          0.1919
+        ]
+      },
+      {
+        "name": "* eta Eri",
+        "hip": 13701,
+        "pos": [
+          0.5843,
+          0.1836
+        ]
+      },
+      {
+        "name": "* pi. Cet",
+        "hip": 12770,
+        "pos": [
+          0.6237,
+          0.2571
+        ]
+      },
+      {
+        "name": "* tau01 Eri",
+        "hip": 12843,
+        "pos": [
+          0.6206,
+          0.327
+        ]
+      },
+      {
+        "name": "* tau03 Eri",
+        "hip": 14146,
+        "pos": [
+          0.5653,
+          0.4019
+        ]
+      },
+      {
+        "name": "* tau04 Eri",
+        "hip": 15474,
+        "pos": [
+          0.5104,
+          0.3742
+        ]
+      },
+      {
+        "name": "* tau05 Eri",
+        "hip": 16611,
+        "pos": [
+          0.4648,
+          0.3724
+        ]
+      },
+      {
+        "name": "* tau06 Eri",
+        "hip": 17651,
+        "pos": [
+          0.423,
+          0.3963
+        ]
+      },
+      {
+        "name": "* tau08 Eri",
+        "hip": 18216,
+        "pos": [
+          0.401,
+          0.4165
+        ]
+      },
+      {
+        "name": "* tau09 Eri",
+        "hip": 18673,
+        "pos": [
+          0.3811,
+          0.4077
+        ]
+      },
+      {
+        "name": "* ups01 Eri",
+        "hip": 21248,
+        "pos": [
+          0.2736,
+          0.4929
+        ]
+      },
+      {
+        "name": "* ups02 Eri",
+        "hip": 21393,
+        "pos": [
+          0.2671,
+          0.5047
+        ]
+      },
+      {
+        "name": "*  43 Eri",
+        "hip": 20535,
+        "pos": [
+          0.3039,
+          0.5559
+        ]
+      },
+      {
+        "name": "* ups04 Eri",
+        "hip": 20042,
+        "pos": [
+          0.3236,
+          0.5526
+        ]
+      },
+      {
+        "name": "* g Eri",
+        "hip": 17874,
+        "pos": [
+          0.4146,
+          0.5882
+        ]
+      },
+      {
+        "name": "* y Eri",
+        "hip": 16870,
+        "pos": [
+          0.4542,
+          0.6486
+        ]
+      },
+      {
+        "name": "* e Eri",
+        "hip": 15510,
+        "pos": [
+          0.5091,
+          0.69
+        ]
+      },
+      {
+        "name": "* tet Eri",
+        "hip": 13847,
+        "pos": [
+          0.5785,
+          0.6491
+        ]
+      },
+      {
+        "name": "* iot Eri",
+        "hip": 12486,
+        "pos": [
+          0.6348,
+          0.6424
+        ]
+      },
+      {
+        "name": "* s Eri",
+        "hip": 12413,
+        "pos": [
+          0.6376,
+          0.6874
+        ]
+      },
+      {
+        "name": "* kap Eri",
+        "hip": 11407,
+        "pos": [
+          0.6786,
+          0.7587
+        ]
+      },
+      {
+        "name": "* chi Eri",
+        "hip": 9007,
+        "pos": [
+          0.7779,
+          0.8166
+        ]
+      },
+      {
+        "name": "* alf Eri",
+        "hip": 7588,
+        "pos": [
+          0.8363,
+          0.9
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        15,
+        16
+      ],
+      [
+        16,
+        17
+      ],
+      [
+        17,
+        18
+      ],
+      [
+        18,
+        19
+      ],
+      [
+        19,
+        20
+      ],
+      [
+        20,
+        21
+      ],
+      [
+        21,
+        22
+      ],
+      [
+        22,
+        23
+      ],
+      [
+        23,
+        24
+      ],
+      [
+        24,
+        25
+      ],
+      [
+        25,
+        26
+      ],
+      [
+        26,
+        27
+      ],
+      [
+        27,
+        28
+      ],
+      [
+        28,
+        29
+      ]
+    ]
+  },
+  {
+    "name": "Fornax",
+    "subtitle": "The Furnace",
+    "best_months": "November – February",
+    "description": "Fornax, the furnace of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf For",
+        "hip": 14879,
+        "pos": [
+          0.1,
+          0.4059
+        ]
+      },
+      {
+        "name": "* bet For",
+        "hip": 13147,
+        "pos": [
+          0.3721,
+          0.5941
+        ]
+      },
+      {
+        "name": "* nu. For",
+        "hip": 9677,
+        "pos": [
+          0.9,
+          0.4229
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "Grus",
+    "subtitle": "The Crane",
+    "best_months": "September – December",
+    "description": "Grus, the crane of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* gam Gru",
+        "hip": 108085,
+        "pos": [
+          0.8073,
+          0.1
+        ]
+      },
+      {
+        "name": "* lam Gru",
+        "hip": 109111,
+        "pos": [
+          0.6954,
+          0.2132
+        ]
+      },
+      {
+        "name": "* del01 Gru",
+        "hip": 110997,
+        "pos": [
+          0.4829,
+          0.4187
+        ]
+      },
+      {
+        "name": "* alf Gru",
+        "hip": 109268,
+        "pos": [
+          0.676,
+          0.5988
+        ]
+      },
+      {
+        "name": "* bet Gru",
+        "hip": 112122,
+        "pos": [
+          0.3599,
+          0.5949
+        ]
+      },
+      {
+        "name": "* eps Gru",
+        "hip": 112623,
+        "pos": [
+          0.3058,
+          0.8253
+        ]
+      },
+      {
+        "name": "* zet Gru",
+        "hip": 113638,
+        "pos": [
+          0.1927,
+          0.9
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ]
+    ]
+  },
+  {
+    "name": "Hercules",
+    "subtitle": "The Strongman",
+    "best_months": "June – September",
+    "description": "Hercules, the strongman of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* del Her",
+        "hip": 84379,
+        "pos": [
+          0.425,
+          0.5933
+        ]
+      },
+      {
+        "name": "* alf Her",
+        "hip": 84345,
+        "pos": [
+          0.4269,
+          0.8333
+        ]
+      },
+      {
+        "name": "* bet Her",
+        "hip": 80816,
+        "pos": [
+          0.6503,
+          0.6702
+        ]
+      },
+      {
+        "name": "* gam Her",
+        "hip": 80170,
+        "pos": [
+          0.692,
+          0.7239
+        ]
+      },
+      {
+        "name": "* zet Her",
+        "hip": 81693,
+        "pos": [
+          0.5946,
+          0.4379
+        ]
+      },
+      {
+        "name": "* eps Her",
+        "hip": 83207,
+        "pos": [
+          0.4991,
+          0.4535
+        ]
+      },
+      {
+        "name": "* eta Her",
+        "hip": 81833,
+        "pos": [
+          0.5865,
+          0.2698
+        ]
+      },
+      {
+        "name": "* sig Her",
+        "hip": 81126,
+        "pos": [
+          0.6307,
+          0.189
+        ]
+      },
+      {
+        "name": "* tau Her",
+        "hip": 79992,
+        "pos": [
+          0.703,
+          0.1
+        ]
+      },
+      {
+        "name": "* pi. Her",
+        "hip": 84380,
+        "pos": [
+          0.4249,
+          0.3183
+        ]
+      },
+      {
+        "name": "* rho Her",
+        "hip": 85112,
+        "pos": [
+          0.3815,
+          0.3106
+        ]
+      },
+      {
+        "name": "* tet Her",
+        "hip": 87808,
+        "pos": [
+          0.2177,
+          0.3082
+        ]
+      },
+      {
+        "name": "* iot Her",
+        "hip": 86414,
+        "pos": [
+          0.3021,
+          0.1071
+        ]
+      },
+      {
+        "name": "* lam Her",
+        "hip": 85693,
+        "pos": [
+          0.346,
+          0.5641
+        ]
+      },
+      {
+        "name": "* mu.01 Her",
+        "hip": 86974,
+        "pos": [
+          0.267,
+          0.5271
+        ]
+      },
+      {
+        "name": "* ksi Her",
+        "hip": 87933,
+        "pos": [
+          0.2101,
+          0.492
+        ]
+      },
+      {
+        "name": "* omi Her",
+        "hip": 88794,
+        "pos": [
+          0.161,
+          0.5032
+        ]
+      },
+      {
+        "name": "* chi Her",
+        "hip": 77760,
+        "pos": [
+          0.839,
+          0.1887
+        ]
+      },
+      {
+        "name": "* phi Her",
+        "hip": 79101,
+        "pos": [
+          0.7581,
+          0.1317
+        ]
+      },
+      {
+        "name": "* ome Her",
+        "hip": 80463,
+        "pos": [
+          0.6744,
+          0.8415
+        ]
+      },
+      {
+        "name": "* h Her",
+        "hip": 81008,
+        "pos": [
+          0.6383,
+          0.9
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        13
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        19
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        18
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        15,
+        16
+      ],
+      [
+        17,
+        18
+      ],
+      [
+        19,
+        20
+      ]
+    ]
+  },
+  {
+    "name": "Horologium",
+    "subtitle": "The Pendulum Clock",
+    "best_months": "November – February (low / not visible above ~42° N)",
+    "description": "Horologium, the pendulum clock of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Hor",
+        "hip": 19747,
+        "pos": [
+          0.2342,
+          0.1
+        ]
+      },
+      {
+        "name": "* iot Hor",
+        "hip": 12653,
+        "pos": [
+          0.7375,
+          0.4125
+        ]
+      },
+      {
+        "name": "* eta Hor",
+        "hip": 12225,
+        "pos": [
+          0.7658,
+          0.4765
+        ]
+      },
+      {
+        "name": "* zet Hor",
+        "hip": 12484,
+        "pos": [
+          0.7479,
+          0.5502
+        ]
+      },
+      {
+        "name": "* mu. Hor",
+        "hip": 14240,
+        "pos": [
+          0.6216,
+          0.7408
+        ]
+      },
+      {
+        "name": "* bet Hor",
+        "hip": 13884,
+        "pos": [
+          0.6481,
+          0.9
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ]
+    ]
+  },
+  {
+    "name": "Hydra",
+    "subtitle": "The Water Serpent",
+    "best_months": "March – June",
+    "description": "Hydra, the water serpent of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* rho Hya",
+        "hip": 43234,
+        "pos": [
+          0.8769,
+          0.3269
+        ]
+      },
+      {
+        "name": "* eta Hya",
+        "hip": 42799,
+        "pos": [
+          0.888,
+          0.3484
+        ]
+      },
+      {
+        "name": "* sig Hya",
+        "hip": 42402,
+        "pos": [
+          0.8976,
+          0.3489
+        ]
+      },
+      {
+        "name": "* del Hya",
+        "hip": 42313,
+        "pos": [
+          0.9,
+          0.3281
+        ]
+      },
+      {
+        "name": "* eps Hya",
+        "hip": 43109,
+        "pos": [
+          0.8804,
+          0.3217
+        ]
+      },
+      {
+        "name": "* zet Hya",
+        "hip": 43813,
+        "pos": [
+          0.8619,
+          0.3259
+        ]
+      },
+      {
+        "name": "* tet Hya",
+        "hip": 45336,
+        "pos": [
+          0.8212,
+          0.358
+        ]
+      },
+      {
+        "name": "* iot Hya",
+        "hip": 47431,
+        "pos": [
+          0.7665,
+          0.3886
+        ]
+      },
+      {
+        "name": "* alf Hya",
+        "hip": 46390,
+        "pos": [
+          0.7928,
+          0.455
+        ]
+      },
+      {
+        "name": "* ups01 Hya",
+        "hip": 48356,
+        "pos": [
+          0.7415,
+          0.5097
+        ]
+      },
+      {
+        "name": "* ups02 Hya",
+        "hip": 49402,
+        "pos": [
+          0.7122,
+          0.494
+        ]
+      },
+      {
+        "name": "* lam Hya",
+        "hip": 49841,
+        "pos": [
+          0.7005,
+          0.4877
+        ]
+      },
+      {
+        "name": "* mu. Hya",
+        "hip": 51069,
+        "pos": [
+          0.6672,
+          0.5273
+        ]
+      },
+      {
+        "name": "* nu. Hya",
+        "hip": 52943,
+        "pos": [
+          0.6167,
+          0.5217
+        ]
+      },
+      {
+        "name": "* alf Crt",
+        "hip": 53740,
+        "pos": [
+          0.5949,
+          0.5403
+        ]
+      },
+      {
+        "name": "* bet Crt",
+        "hip": 54682,
+        "pos": [
+          0.5694,
+          0.5803
+        ]
+      },
+      {
+        "name": "* ksi Hya",
+        "hip": 56343,
+        "pos": [
+          0.5236,
+          0.6601
+        ]
+      },
+      {
+        "name": "* bet Hya",
+        "hip": 57936,
+        "pos": [
+          0.4808,
+          0.6783
+        ]
+      },
+      {
+        "name": "* gam Hya",
+        "hip": 64962,
+        "pos": [
+          0.2962,
+          0.5833
+        ]
+      },
+      {
+        "name": "* pi. Hya",
+        "hip": 68895,
+        "pos": [
+          0.1943,
+          0.6144
+        ]
+      },
+      {
+        "name": "* E Hya",
+        "hip": 72571,
+        "pos": [
+          0.1,
+          0.6257
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        15,
+        16
+      ],
+      [
+        16,
+        17
+      ],
+      [
+        17,
+        18
+      ],
+      [
+        18,
+        19
+      ],
+      [
+        19,
+        20
+      ]
+    ]
+  },
+  {
+    "name": "Hydrus",
+    "subtitle": "The Lesser Water Serpent",
+    "best_months": "November – February (low / not visible above ~42° N)",
+    "description": "Hydrus, the lesser water serpent of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* bet Hyi",
+        "hip": 2021,
+        "pos": [
+          0.9,
+          0.8542
+        ]
+      },
+      {
+        "name": "* gam Hyi",
+        "hip": 17678,
+        "pos": [
+          0.1,
+          0.718
+        ]
+      },
+      {
+        "name": "* del Hyi",
+        "hip": 11001,
+        "pos": [
+          0.4394,
+          0.466
+        ]
+      },
+      {
+        "name": "* alf Hyi",
+        "hip": 9236,
+        "pos": [
+          0.5307,
+          0.1458
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Indus",
+    "subtitle": "The Indian",
+    "best_months": "August – November (low / not visible above ~42° N)",
+    "description": "Indus, the indian of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* bet Ind",
+        "hip": 103227,
+        "pos": [
+          0.7283,
+          0.8683
+        ]
+      },
+      {
+        "name": "* eta Ind",
+        "hip": 102333,
+        "pos": [
+          0.8356,
+          0.4372
+        ]
+      },
+      {
+        "name": "* alf Ind",
+        "hip": 101772,
+        "pos": [
+          0.9,
+          0.1317
+        ]
+      },
+      {
+        "name": "* tet Ind",
+        "hip": 105319,
+        "pos": [
+          0.4789,
+          0.538
+        ]
+      },
+      {
+        "name": "* del Ind",
+        "hip": 108431,
+        "pos": [
+          0.1,
+          0.6399
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "Leo Minor",
+    "subtitle": "The Lesser Lion",
+    "best_months": "March – June",
+    "description": "Leo Minor, the lesser lion of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "*  10 LMi",
+        "hip": 46952,
+        "pos": [
+          0.9,
+          0.4432
+        ]
+      },
+      {
+        "name": "*  21 LMi",
+        "hip": 49593,
+        "pos": [
+          0.5641,
+          0.5003
+        ]
+      },
+      {
+        "name": "* bet LMi",
+        "hip": 51233,
+        "pos": [
+          0.3572,
+          0.4279
+        ]
+      },
+      {
+        "name": "*  46 LMi",
+        "hip": 53229,
+        "pos": [
+          0.1,
+          0.5514
+        ]
+      },
+      {
+        "name": "*  30 LMi",
+        "hip": 51056,
+        "pos": [
+          0.3771,
+          0.5721
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "Lacerta",
+    "subtitle": "The Lizard",
+    "best_months": "September – December",
+    "description": "Lacerta, the lizard of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "*   5 Lac",
+        "hip": 111022,
+        "pos": [
+          0.4772,
+          0.3498
+        ]
+      },
+      {
+        "name": "* alf Lac",
+        "hip": 111169,
+        "pos": [
+          0.46,
+          0.2075
+        ]
+      },
+      {
+        "name": "* bet Lac",
+        "hip": 110538,
+        "pos": [
+          0.5355,
+          0.1
+        ]
+      },
+      {
+        "name": "*   4 Lac",
+        "hip": 110609,
+        "pos": [
+          0.5262,
+          0.2521
+        ]
+      },
+      {
+        "name": "*   2 Lac",
+        "hip": 110351,
+        "pos": [
+          0.5603,
+          0.4145
+        ]
+      },
+      {
+        "name": "*   6 Lac",
+        "hip": 111104,
+        "pos": [
+          0.4679,
+          0.6031
+        ]
+      },
+      {
+        "name": "*  11 Lac",
+        "hip": 111944,
+        "pos": [
+          0.3699,
+          0.5394
+        ]
+      },
+      {
+        "name": "HD 211073",
+        "hip": 109754,
+        "pos": [
+          0.6301,
+          0.7914
+        ]
+      },
+      {
+        "name": "*   1 Lac",
+        "hip": 109937,
+        "pos": [
+          0.6097,
+          0.9
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        7
+      ],
+      [
+        7,
+        8
+      ]
+    ]
+  },
+  {
+    "name": "Lepus",
+    "subtitle": "The Hare",
+    "best_months": "December – March",
+    "description": "Lepus, the hare of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* eps Lep",
+        "hip": 23685,
+        "pos": [
+          0.9,
+          0.7588
+        ]
+      },
+      {
+        "name": "* mu. Lep",
+        "hip": 24305,
+        "pos": [
+          0.8015,
+          0.4176
+        ]
+      },
+      {
+        "name": "* alf Lep",
+        "hip": 25985,
+        "pos": [
+          0.5406,
+          0.5071
+        ]
+      },
+      {
+        "name": "* bet Lep",
+        "hip": 25606,
+        "pos": [
+          0.5997,
+          0.6696
+        ]
+      },
+      {
+        "name": "* lam Lep",
+        "hip": 24845,
+        "pos": [
+          0.714,
+          0.25
+        ]
+      },
+      {
+        "name": "* kap Lep",
+        "hip": 24327,
+        "pos": [
+          0.7976,
+          0.2369
+        ]
+      },
+      {
+        "name": "* gam Lep",
+        "hip": 27072,
+        "pos": [
+          0.3859,
+          0.7631
+        ]
+      },
+      {
+        "name": "* del Lep",
+        "hip": 27654,
+        "pos": [
+          0.2955,
+          0.6762
+        ]
+      },
+      {
+        "name": "* tet Lep",
+        "hip": 28910,
+        "pos": [
+          0.1,
+          0.3473
+        ]
+      },
+      {
+        "name": "* eta Lep",
+        "hip": 28103,
+        "pos": [
+          0.2285,
+          0.3048
+        ]
+      },
+      {
+        "name": "* zet Lep",
+        "hip": 27288,
+        "pos": [
+          0.3531,
+          0.341
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        10
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "name": "Libra",
+    "subtitle": "The Scales",
+    "best_months": "May – August",
+    "description": "Libra, the scales of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf02 Lib",
+        "hip": 72622,
+        "pos": [
+          0.7207,
+          0.3612
+        ]
+      },
+      {
+        "name": "* bet Lib",
+        "hip": 74785,
+        "pos": [
+          0.4793,
+          0.1
+        ]
+      },
+      {
+        "name": "* sig Lib",
+        "hip": 73714,
+        "pos": [
+          0.5988,
+          0.7237
+        ]
+      },
+      {
+        "name": "* gam Lib",
+        "hip": 76333,
+        "pos": [
+          0.3082,
+          0.3121
+        ]
+      },
+      {
+        "name": "* ups Lib",
+        "hip": 76470,
+        "pos": [
+          0.2944,
+          0.8356
+        ]
+      },
+      {
+        "name": "* tau Lib",
+        "hip": 76600,
+        "pos": [
+          0.2793,
+          0.9
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ]
+    ]
+  },
+  {
+    "name": "Lupus",
+    "subtitle": "The Wolf",
+    "best_months": "May – August",
+    "description": "Lupus, the wolf of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Lup",
+        "hip": 71860,
+        "pos": [
+          0.8103,
+          0.696
+        ]
+      },
+      {
+        "name": "* zet Lup",
+        "hip": 74395,
+        "pos": [
+          0.5694,
+          0.9
+        ]
+      },
+      {
+        "name": "* eps Lup",
+        "hip": 75264,
+        "pos": [
+          0.4869,
+          0.5791
+        ]
+      },
+      {
+        "name": "* gam Lup",
+        "hip": 76297,
+        "pos": [
+          0.388,
+          0.4265
+        ]
+      },
+      {
+        "name": "* del Lup",
+        "hip": 75141,
+        "pos": [
+          0.4973,
+          0.404
+        ]
+      },
+      {
+        "name": "* bet Lup",
+        "hip": 73273,
+        "pos": [
+          0.6785,
+          0.5117
+        ]
+      },
+      {
+        "name": "* eta Lup",
+        "hip": 78384,
+        "pos": [
+          0.1897,
+          0.3066
+        ]
+      },
+      {
+        "name": "* phi01 Lup",
+        "hip": 75177,
+        "pos": [
+          0.4938,
+          0.2141
+        ]
+      },
+      {
+        "name": "* chi Lup",
+        "hip": 77634,
+        "pos": [
+          0.2624,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ]
+    ]
+  },
+  {
+    "name": "Lynx",
+    "subtitle": "The Lynx",
+    "best_months": "February – May",
+    "description": "Lynx, the lynx of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Lyn",
+        "hip": 45860,
+        "pos": [
+          0.1,
+          0.8166
+        ]
+      },
+      {
+        "name": "*  38 Lyn",
+        "hip": 45688,
+        "pos": [
+          0.1097,
+          0.7546
+        ]
+      },
+      {
+        "name": "HD  77912",
+        "hip": 44700,
+        "pos": [
+          0.164,
+          0.7122
+        ]
+      },
+      {
+        "name": "*  10 UMa",
+        "hip": 44248,
+        "pos": [
+          0.19,
+          0.6265
+        ]
+      },
+      {
+        "name": "*  31 Lyn",
+        "hip": 41075,
+        "pos": [
+          0.3567,
+          0.5904
+        ]
+      },
+      {
+        "name": "*  21 Lyn",
+        "hip": 36145,
+        "pos": [
+          0.6042,
+          0.4355
+        ]
+      },
+      {
+        "name": "*  15 Lyn",
+        "hip": 33449,
+        "pos": [
+          0.734,
+          0.1986
+        ]
+      },
+      {
+        "name": "*   2 Lyn",
+        "hip": 30060,
+        "pos": [
+          0.9,
+          0.1834
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ]
+    ]
+  },
+  {
+    "name": "Mensa",
+    "subtitle": "The Table Mountain",
+    "best_months": "December – March (low / not visible above ~42° N)",
+    "description": "Mensa, the table mountain of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Men",
+        "hip": 29271,
+        "pos": [
+          0.1,
+          0.7792
+        ]
+      },
+      {
+        "name": "* bet Men",
+        "hip": 23467,
+        "pos": [
+          0.9,
+          0.2208
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "name": "Microscopium",
+    "subtitle": "The Microscope",
+    "best_months": "August – November",
+    "description": "Microscopium, the microscope of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Mic",
+        "hip": 102831,
+        "pos": [
+          0.7788,
+          0.9
+        ]
+      },
+      {
+        "name": "* bet Mic",
+        "hip": 102989,
+        "pos": [
+          0.2212,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ]
+    ]
+  },
+  {
+    "name": "Monoceros",
+    "subtitle": "The Unicorn",
+    "best_months": "January – April",
+    "description": "Monoceros, the unicorn of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "*  15 Mon",
+        "hip": 31978,
+        "pos": [
+          0.7163,
+          0.2264
+        ]
+      },
+      {
+        "name": "*  13 Mon",
+        "hip": 31216,
+        "pos": [
+          0.7731,
+          0.2985
+        ]
+      },
+      {
+        "name": "* eps Mon A",
+        "hip": 30419,
+        "pos": [
+          0.8373,
+          0.3756
+        ]
+      },
+      {
+        "name": "*  18 Mon",
+        "hip": 32578,
+        "pos": [
+          0.6679,
+          0.437
+        ]
+      },
+      {
+        "name": "* del Mon",
+        "hip": 34769,
+        "pos": [
+          0.499,
+          0.5187
+        ]
+      },
+      {
+        "name": "* bet Mon",
+        "hip": 30867,
+        "pos": [
+          0.8018,
+          0.7027
+        ]
+      },
+      {
+        "name": "* gam Mon",
+        "hip": 29651,
+        "pos": [
+          0.9,
+          0.6814
+        ]
+      },
+      {
+        "name": "* zet Mon",
+        "hip": 39863,
+        "pos": [
+          0.1,
+          0.5888
+        ]
+      },
+      {
+        "name": "* alf Mon",
+        "hip": 37447,
+        "pos": [
+          0.2923,
+          0.7736
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        7,
+        8
+      ]
+    ]
+  },
+  {
+    "name": "Musca",
+    "subtitle": "The Fly",
+    "best_months": "April – July (low / not visible above ~42° N)",
+    "description": "Musca, the fly of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* lam Mus",
+        "hip": 57363,
+        "pos": [
+          0.9,
+          0.179
+        ]
+      },
+      {
+        "name": "* eps Mus",
+        "hip": 59929,
+        "pos": [
+          0.5664,
+          0.3253
+        ]
+      },
+      {
+        "name": "* alf Mus",
+        "hip": 61585,
+        "pos": [
+          0.3618,
+          0.4649
+        ]
+      },
+      {
+        "name": "* bet Mus",
+        "hip": 62322,
+        "pos": [
+          0.2669,
+          0.3428
+        ]
+      },
+      {
+        "name": "* del Mus",
+        "hip": 63613,
+        "pos": [
+          0.1,
+          0.7516
+        ]
+      },
+      {
+        "name": "* gam Mus",
+        "hip": 61199,
+        "pos": [
+          0.411,
+          0.821
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ]
+    ]
+  },
+  {
+    "name": "Norma",
+    "subtitle": "The Carpenter's Square",
+    "best_months": "June – September",
+    "description": "Norma, the carpenter's square of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* eta Nor",
+        "hip": 78639,
+        "pos": [
+          0.824,
+          0.7513
+        ]
+      },
+      {
+        "name": "* gam02 Nor",
+        "hip": 80000,
+        "pos": [
+          0.3745,
+          0.9
+        ]
+      },
+      {
+        "name": "* eps Nor",
+        "hip": 80582,
+        "pos": [
+          0.176,
+          0.4824
+        ]
+      },
+      {
+        "name": "* del Nor",
+        "hip": 78914,
+        "pos": [
+          0.7354,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Octans",
+    "subtitle": "The Octant",
+    "best_months": "July – October (low / not visible above ~42° N)",
+    "description": "Octans, the octant of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* del Oct",
+        "hip": 70638,
+        "pos": [
+          0.9,
+          0.6223
+        ]
+      },
+      {
+        "name": "* nu. Oct",
+        "hip": 107089,
+        "pos": [
+          0.2035,
+          0.3777
+        ]
+      },
+      {
+        "name": "* bet Oct",
+        "hip": 112405,
+        "pos": [
+          0.1,
+          0.5332
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "Ophiuchus",
+    "subtitle": "The Serpent Bearer",
+    "best_months": "June – September",
+    "description": "Ophiuchus, the serpent bearer of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Oph",
+        "hip": 86032,
+        "pos": [
+          0.3684,
+          0.1
+        ]
+      },
+      {
+        "name": "* kap Oph",
+        "hip": 83000,
+        "pos": [
+          0.542,
+          0.1601
+        ]
+      },
+      {
+        "name": "* lam Oph",
+        "hip": 80883,
+        "pos": [
+          0.6667,
+          0.2994
+        ]
+      },
+      {
+        "name": "* del Oph",
+        "hip": 79593,
+        "pos": [
+          0.7439,
+          0.4065
+        ]
+      },
+      {
+        "name": "* eps Oph",
+        "hip": 79882,
+        "pos": [
+          0.7254,
+          0.4253
+        ]
+      },
+      {
+        "name": "* ups Oph",
+        "hip": 80628,
+        "pos": [
+          0.6812,
+          0.4947
+        ]
+      },
+      {
+        "name": "* zet Oph",
+        "hip": 81377,
+        "pos": [
+          0.6376,
+          0.5361
+        ]
+      },
+      {
+        "name": "* eta Oph",
+        "hip": 84012,
+        "pos": [
+          0.4828,
+          0.6333
+        ]
+      },
+      {
+        "name": "* bet Oph",
+        "hip": 86742,
+        "pos": [
+          0.3286,
+          0.2507
+        ]
+      },
+      {
+        "name": "* gam Oph",
+        "hip": 87108,
+        "pos": [
+          0.308,
+          0.2858
+        ]
+      },
+      {
+        "name": "* nu. Oph",
+        "hip": 88048,
+        "pos": [
+          0.2561,
+          0.5211
+        ]
+      },
+      {
+        "name": "* tet Oph",
+        "hip": 84970,
+        "pos": [
+          0.4286,
+          0.8082
+        ]
+      },
+      {
+        "name": "* d Oph",
+        "hip": 85423,
+        "pos": [
+          0.4037,
+          0.9
+        ]
+      },
+      {
+        "name": "* phi Oph",
+        "hip": 80894,
+        "pos": [
+          0.6657,
+          0.6501
+        ]
+      },
+      {
+        "name": "* chi Oph",
+        "hip": 80569,
+        "pos": [
+          0.6848,
+          0.6848
+        ]
+      },
+      {
+        "name": "* psi Oph",
+        "hip": 80343,
+        "pos": [
+          0.6985,
+          0.7147
+        ]
+      },
+      {
+        "name": "* rho Oph",
+        "hip": 80473,
+        "pos": [
+          0.6915,
+          0.7789
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        13
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        11
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        15,
+        16
+      ]
+    ]
+  },
+  {
+    "name": "Pavo",
+    "subtitle": "The Peacock",
+    "best_months": "July – October (low / not visible above ~42° N)",
+    "description": "Pavo, the peacock of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Pav",
+        "hip": 100751,
+        "pos": [
+          0.3204,
+          0.2244
+        ]
+      },
+      {
+        "name": "* del Pav",
+        "hip": 99240,
+        "pos": [
+          0.3817,
+          0.5463
+        ]
+      },
+      {
+        "name": "* bet Pav",
+        "hip": 102395,
+        "pos": [
+          0.2504,
+          0.547
+        ]
+      },
+      {
+        "name": "* gam Pav",
+        "hip": 105858,
+        "pos": [
+          0.1,
+          0.5185
+        ]
+      },
+      {
+        "name": "* zet Pav",
+        "hip": 91792,
+        "pos": [
+          0.6923,
+          0.7251
+        ]
+      },
+      {
+        "name": "* eps Pav",
+        "hip": 98495,
+        "pos": [
+          0.4112,
+          0.7756
+        ]
+      },
+      {
+        "name": "* kap Pav",
+        "hip": 93015,
+        "pos": [
+          0.6419,
+          0.5822
+        ]
+      },
+      {
+        "name": "* pi. Pav",
+        "hip": 88866,
+        "pos": [
+          0.8172,
+          0.4607
+        ]
+      },
+      {
+        "name": "* eta Pav",
+        "hip": 86929,
+        "pos": [
+          0.9,
+          0.4966
+        ]
+      },
+      {
+        "name": "* ksi Pav",
+        "hip": 90098,
+        "pos": [
+          0.7641,
+          0.3865
+        ]
+      },
+      {
+        "name": "* lam Pav",
+        "hip": 92609,
+        "pos": [
+          0.659,
+          0.4102
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        1,
+        5
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        10
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        9,
+        10
+      ]
+    ]
+  },
+  {
+    "name": "Pegasus",
+    "subtitle": "The Winged Horse",
+    "best_months": "September – December",
+    "description": "Pegasus, the winged horse of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* pi. Peg",
+        "hip": 109410,
+        "pos": [
+          0.7615,
+          0.1924
+        ]
+      },
+      {
+        "name": "* eta Peg",
+        "hip": 112158,
+        "pos": [
+          0.5843,
+          0.2598
+        ]
+      },
+      {
+        "name": "* bet Peg",
+        "hip": 113881,
+        "pos": [
+          0.4728,
+          0.3086
+        ]
+      },
+      {
+        "name": "* mu. Peg",
+        "hip": 112748,
+        "pos": [
+          0.5467,
+          0.388
+        ]
+      },
+      {
+        "name": "* lam Peg",
+        "hip": 112440,
+        "pos": [
+          0.5654,
+          0.4116
+        ]
+      },
+      {
+        "name": "* iot Peg",
+        "hip": 109176,
+        "pos": [
+          0.7775,
+          0.371
+        ]
+      },
+      {
+        "name": "* kap Peg",
+        "hip": 107354,
+        "pos": [
+          0.8975,
+          0.3642
+        ]
+      },
+      {
+        "name": "* alf And",
+        "hip": 677,
+        "pos": [
+          0.126,
+          0.2856
+        ]
+      },
+      {
+        "name": "* alf Peg",
+        "hip": 113963,
+        "pos": [
+          0.4675,
+          0.6022
+        ]
+      },
+      {
+        "name": "* gam Peg",
+        "hip": 1067,
+        "pos": [
+          0.1,
+          0.6027
+        ]
+      },
+      {
+        "name": "* eps Peg",
+        "hip": 107315,
+        "pos": [
+          0.9,
+          0.7238
+        ]
+      },
+      {
+        "name": "* tet Peg",
+        "hip": 109427,
+        "pos": [
+          0.7604,
+          0.8076
+        ]
+      },
+      {
+        "name": "*  42 Peg",
+        "hip": 112029,
+        "pos": [
+          0.5926,
+          0.702
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        8,
+        12
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ]
+    ]
+  },
+  {
+    "name": "Perseus",
+    "subtitle": "The Hero",
+    "best_months": "November – February",
+    "description": "Perseus, the hero of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* omi Per",
+        "hip": 17448,
+        "pos": [
+          0.2756,
+          0.8332
+        ]
+      },
+      {
+        "name": "* zet Per",
+        "hip": 18246,
+        "pos": [
+          0.2248,
+          0.8449
+        ]
+      },
+      {
+        "name": "* ksi Per",
+        "hip": 18614,
+        "pos": [
+          0.1998,
+          0.7326
+        ]
+      },
+      {
+        "name": "* eps Per",
+        "hip": 18532,
+        "pos": [
+          0.2055,
+          0.6114
+        ]
+      },
+      {
+        "name": "* del Per",
+        "hip": 17358,
+        "pos": [
+          0.2828,
+          0.388
+        ]
+      },
+      {
+        "name": "* alf Per",
+        "hip": 15863,
+        "pos": [
+          0.3791,
+          0.3285
+        ]
+      },
+      {
+        "name": "* gam Per",
+        "hip": 14328,
+        "pos": [
+          0.4801,
+          0.2238
+        ]
+      },
+      {
+        "name": "* eta Per",
+        "hip": 13268,
+        "pos": [
+          0.5531,
+          0.1551
+        ]
+      },
+      {
+        "name": "* tau Per",
+        "hip": 13531,
+        "pos": [
+          0.5346,
+          0.2451
+        ]
+      },
+      {
+        "name": "* iot Per",
+        "hip": 14632,
+        "pos": [
+          0.458,
+          0.3356
+        ]
+      },
+      {
+        "name": "* kap Per",
+        "hip": 14668,
+        "pos": [
+          0.4558,
+          0.4722
+        ]
+      },
+      {
+        "name": "* bet Per",
+        "hip": 14576,
+        "pos": [
+          0.4627,
+          0.5843
+        ]
+      },
+      {
+        "name": "* rho Per",
+        "hip": 14354,
+        "pos": [
+          0.4781,
+          0.645
+        ]
+      },
+      {
+        "name": "* c Per",
+        "hip": 19343,
+        "pos": [
+          0.1496,
+          0.3902
+        ]
+      },
+      {
+        "name": "* mu. Per",
+        "hip": 19812,
+        "pos": [
+          0.1173,
+          0.3702
+        ]
+      },
+      {
+        "name": "* b Per",
+        "hip": 20070,
+        "pos": [
+          0.1,
+          0.316
+        ]
+      },
+      {
+        "name": "* lam Per",
+        "hip": 19167,
+        "pos": [
+          0.1603,
+          0.3144
+        ]
+      },
+      {
+        "name": "* tet Per",
+        "hip": 12777,
+        "pos": [
+          0.5867,
+          0.3466
+        ]
+      },
+      {
+        "name": "* phi Per",
+        "hip": 8068,
+        "pos": [
+          0.9,
+          0.3047
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        13
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        8
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        9,
+        17
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        13,
+        14
+      ],
+      [
+        14,
+        15
+      ],
+      [
+        15,
+        16
+      ],
+      [
+        17,
+        18
+      ]
+    ]
+  },
+  {
+    "name": "Phoenix",
+    "subtitle": "The Phoenix",
+    "best_months": "October – January",
+    "description": "Phoenix, the phoenix of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Phe",
+        "hip": 2081,
+        "pos": [
+          0.7351,
+          0.1161
+        ]
+      },
+      {
+        "name": "* bet Phe",
+        "hip": 5165,
+        "pos": [
+          0.346,
+          0.3779
+        ]
+      },
+      {
+        "name": "* gam Phe",
+        "hip": 6867,
+        "pos": [
+          0.1282,
+          0.1762
+        ]
+      },
+      {
+        "name": "* eps Phe",
+        "hip": 765,
+        "pos": [
+          0.9,
+          0.3203
+        ]
+      },
+      {
+        "name": "* zet Phe",
+        "hip": 5348,
+        "pos": [
+          0.3235,
+          0.8839
+        ]
+      },
+      {
+        "name": "* del Phe",
+        "hip": 7083,
+        "pos": [
+          0.1,
+          0.5176
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        4,
+        5
+      ]
+    ]
+  },
+  {
+    "name": "Pictor",
+    "subtitle": "The Painter's Easel",
+    "best_months": "January – April (low / not visible above ~42° N)",
+    "description": "Pictor, the painter's easel of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Pic",
+        "hip": 32607,
+        "pos": [
+          0.1909,
+          0.9
+        ]
+      },
+      {
+        "name": "* gam Pic",
+        "hip": 27530,
+        "pos": [
+          0.7833,
+          0.4752
+        ]
+      },
+      {
+        "name": "* bet Pic",
+        "hip": 27321,
+        "pos": [
+          0.8091,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "Piscis Austrinus",
+    "subtitle": "The Southern Fish",
+    "best_months": "September – December",
+    "description": "Piscis Austrinus, the southern fish of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf PsA",
+        "hip": 113368,
+        "pos": [
+          0.1,
+          0.479
+        ]
+      },
+      {
+        "name": "* del PsA",
+        "hip": 113246,
+        "pos": [
+          0.1187,
+          0.6274
+        ]
+      },
+      {
+        "name": "* gam PsA",
+        "hip": 112948,
+        "pos": [
+          0.1564,
+          0.6444
+        ]
+      },
+      {
+        "name": "* bet PsA",
+        "hip": 111188,
+        "pos": [
+          0.3877,
+          0.6175
+        ]
+      },
+      {
+        "name": "* mu. PsA",
+        "hip": 109285,
+        "pos": [
+          0.6421,
+          0.6502
+        ]
+      },
+      {
+        "name": "* iot PsA",
+        "hip": 107380,
+        "pos": [
+          0.9,
+          0.6521
+        ]
+      },
+      {
+        "name": "* tet PsA",
+        "hip": 107608,
+        "pos": [
+          0.8693,
+          0.5439
+        ]
+      },
+      {
+        "name": "* eps PsA",
+        "hip": 111954,
+        "pos": [
+          0.287,
+          0.3479
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        6
+      ]
+    ]
+  },
+  {
+    "name": "Pisces",
+    "subtitle": "The Fishes",
+    "best_months": "October – January",
+    "description": "Pisces, the fishes of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* phi Psc",
+        "hip": 5742,
+        "pos": [
+          0.3343,
+          0.3204
+        ]
+      },
+      {
+        "name": "* ups Psc",
+        "hip": 6193,
+        "pos": [
+          0.3066,
+          0.2663
+        ]
+      },
+      {
+        "name": "* tau Psc",
+        "hip": 5586,
+        "pos": [
+          0.3445,
+          0.2094
+        ]
+      },
+      {
+        "name": "* eta Psc",
+        "hip": 7097,
+        "pos": [
+          0.2483,
+          0.5066
+        ]
+      },
+      {
+        "name": "* omi Psc",
+        "hip": 8198,
+        "pos": [
+          0.1808,
+          0.6313
+        ]
+      },
+      {
+        "name": "* alf Psc",
+        "hip": 9487,
+        "pos": [
+          0.1,
+          0.7602
+        ]
+      },
+      {
+        "name": "* nu. Psc",
+        "hip": 7884,
+        "pos": [
+          0.2,
+          0.7053
+        ]
+      },
+      {
+        "name": "* eps Psc",
+        "hip": 4906,
+        "pos": [
+          0.3868,
+          0.6569
+        ]
+      },
+      {
+        "name": "* del Psc",
+        "hip": 3786,
+        "pos": [
+          0.456,
+          0.663
+        ]
+      },
+      {
+        "name": "* ome Psc",
+        "hip": 118268,
+        "pos": [
+          0.6955,
+          0.6776
+        ]
+      },
+      {
+        "name": "* iot Psc",
+        "hip": 116771,
+        "pos": [
+          0.7894,
+          0.7025
+        ]
+      },
+      {
+        "name": "* tet Psc",
+        "hip": 115830,
+        "pos": [
+          0.8476,
+          0.6873
+        ]
+      },
+      {
+        "name": "* gam Psc",
+        "hip": 114971,
+        "pos": [
+          0.9,
+          0.7498
+        ]
+      },
+      {
+        "name": "* kap Psc",
+        "hip": 115738,
+        "pos": [
+          0.8526,
+          0.7906
+        ]
+      },
+      {
+        "name": "* lam Psc",
+        "hip": 116928,
+        "pos": [
+          0.7793,
+          0.78
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        10,
+        14
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        14
+      ]
+    ]
+  },
+  {
+    "name": "Puppis",
+    "subtitle": "The Stern",
+    "best_months": "January – April",
+    "description": "Puppis, the stern of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* gam02 Vel",
+        "hip": 39953,
+        "pos": [
+          0.209,
+          0.749
+        ]
+      },
+      {
+        "name": "* zet Pup",
+        "hip": 39429,
+        "pos": [
+          0.2418,
+          0.5424
+        ]
+      },
+      {
+        "name": "* rho Pup",
+        "hip": 39757,
+        "pos": [
+          0.2199,
+          0.1
+        ]
+      },
+      {
+        "name": "* ksi Pup",
+        "hip": 38170,
+        "pos": [
+          0.3205,
+          0.1157
+        ]
+      },
+      {
+        "name": "* p Pup",
+        "hip": 36917,
+        "pos": [
+          0.3972,
+          0.2145
+        ]
+      },
+      {
+        "name": "* pi. Pup",
+        "hip": 35264,
+        "pos": [
+          0.4978,
+          0.4605
+        ]
+      },
+      {
+        "name": "* nu. Pup",
+        "hip": 31685,
+        "pos": [
+          0.7149,
+          0.6323
+        ]
+      },
+      {
+        "name": "* alf Car",
+        "hip": 30438,
+        "pos": [
+          0.791,
+          0.9
+        ]
+      },
+      {
+        "name": "* l Pup",
+        "hip": 37677,
+        "pos": [
+          0.3508,
+          0.231
+        ]
+      },
+      {
+        "name": "* omi Pup",
+        "hip": 38070,
+        "pos": [
+          0.3272,
+          0.146
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        8,
+        9
+      ]
+    ]
+  },
+  {
+    "name": "Pyxis",
+    "subtitle": "The Mariner's Compass",
+    "best_months": "February – May",
+    "description": "Pyxis, the mariner's compass of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* zet Pup",
+        "hip": 39429,
+        "pos": [
+          0.8171,
+          0.9
+        ]
+      },
+      {
+        "name": "* bet Pyx",
+        "hip": 42515,
+        "pos": [
+          0.3238,
+          0.5945
+        ]
+      },
+      {
+        "name": "* alf Pyx",
+        "hip": 42828,
+        "pos": [
+          0.2766,
+          0.4564
+        ]
+      },
+      {
+        "name": "* gam Pyx",
+        "hip": 43409,
+        "pos": [
+          0.1829,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Reticulum",
+    "subtitle": "The Reticle",
+    "best_months": "December – March (low / not visible above ~42° N)",
+    "description": "Reticulum, the reticle of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Ret",
+        "hip": 19780,
+        "pos": [
+          0.2602,
+          0.5609
+        ]
+      },
+      {
+        "name": "* bet Ret",
+        "hip": 17440,
+        "pos": [
+          0.7748,
+          0.9
+        ]
+      },
+      {
+        "name": "* del Ret",
+        "hip": 18597,
+        "pos": [
+          0.5272,
+          0.4049
+        ]
+      },
+      {
+        "name": "* eps Ret",
+        "hip": 19921,
+        "pos": [
+          0.2252,
+          0.1
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Sculptor",
+    "subtitle": "The Sculptor",
+    "best_months": "September – December",
+    "description": "Sculptor, the sculptor of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Scl",
+        "hip": 4577,
+        "pos": [
+          0.1,
+          0.3617
+        ]
+      },
+      {
+        "name": "* del Scl",
+        "hip": 117452,
+        "pos": [
+          0.6587,
+          0.3148
+        ]
+      },
+      {
+        "name": "* gam Scl",
+        "hip": 115102,
+        "pos": [
+          0.9,
+          0.4831
+        ]
+      },
+      {
+        "name": "* bet Scl",
+        "hip": 116231,
+        "pos": [
+          0.7866,
+          0.6852
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Scutum",
+    "subtitle": "The Shield",
+    "best_months": "July – October",
+    "description": "Scutum, the shield of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* bet Sct",
+        "hip": 92175,
+        "pos": [
+          0.3195,
+          0.1
+        ]
+      },
+      {
+        "name": "* alf Sct",
+        "hip": 91117,
+        "pos": [
+          0.5598,
+          0.3849
+        ]
+      },
+      {
+        "name": "* gam Sct",
+        "hip": 90595,
+        "pos": [
+          0.6805,
+          0.9
+        ]
+      },
+      {
+        "name": "* del Sct",
+        "hip": 91726,
+        "pos": [
+          0.4179,
+          0.4508
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Serpens",
+    "subtitle": "The Serpent",
+    "best_months": "June – September",
+    "description": "Serpens, the serpent of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* bet Ser",
+        "hip": 77233,
+        "pos": [
+          0.8548,
+          0.2862
+        ]
+      },
+      {
+        "name": "* gam Ser",
+        "hip": 78072,
+        "pos": [
+          0.814,
+          0.2824
+        ]
+      },
+      {
+        "name": "* kap Ser",
+        "hip": 77450,
+        "pos": [
+          0.8446,
+          0.243
+        ]
+      },
+      {
+        "name": "* iot Ser",
+        "hip": 76852,
+        "pos": [
+          0.8732,
+          0.2187
+        ]
+      },
+      {
+        "name": "* del Ser",
+        "hip": 76276,
+        "pos": [
+          0.9,
+          0.3638
+        ]
+      },
+      {
+        "name": "* alf Ser",
+        "hip": 77070,
+        "pos": [
+          0.8624,
+          0.4292
+        ]
+      },
+      {
+        "name": "* eps Ser",
+        "hip": 77622,
+        "pos": [
+          0.8364,
+          0.4602
+        ]
+      },
+      {
+        "name": "* mu. Ser",
+        "hip": 77516,
+        "pos": [
+          0.8411,
+          0.5859
+        ]
+      },
+      {
+        "name": "* del Oph",
+        "hip": 79593,
+        "pos": [
+          0.7429,
+          0.5901
+        ]
+      },
+      {
+        "name": "* eta Oph",
+        "hip": 84012,
+        "pos": [
+          0.5204,
+          0.7813
+        ]
+      },
+      {
+        "name": "* ksi Ser",
+        "hip": 86263,
+        "pos": [
+          0.4123,
+          0.7761
+        ]
+      },
+      {
+        "name": "* nu. Oph",
+        "hip": 88048,
+        "pos": [
+          0.3272,
+          0.6867
+        ]
+      },
+      {
+        "name": "* eta Ser",
+        "hip": 89962,
+        "pos": [
+          0.2387,
+          0.5774
+        ]
+      },
+      {
+        "name": "* tet01 Ser",
+        "hip": 92946,
+        "pos": [
+          0.1,
+          0.4645
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        13
+      ]
+    ]
+  },
+  {
+    "name": "Sextans",
+    "subtitle": "The Sextant",
+    "best_months": "March – June",
+    "description": "Sextans, the sextant of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* gam Sex",
+        "hip": 48437,
+        "pos": [
+          0.9,
+          0.8284
+        ]
+      },
+      {
+        "name": "* alf Sex",
+        "hip": 49641,
+        "pos": [
+          0.5733,
+          0.1716
+        ]
+      },
+      {
+        "name": "* bet Sex",
+        "hip": 51437,
+        "pos": [
+          0.1,
+          0.1942
+        ]
+      },
+      {
+        "name": "* del Sex",
+        "hip": 51362,
+        "pos": [
+          0.1172,
+          0.3727
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Sagitta",
+    "subtitle": "The Arrow",
+    "best_months": "July – October",
+    "description": "Sagitta, the arrow of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* gam Sge",
+        "hip": 98337,
+        "pos": [
+          0.1,
+          0.3177
+        ]
+      },
+      {
+        "name": "* del Sge",
+        "hip": 97365,
+        "pos": [
+          0.5874,
+          0.4909
+        ]
+      },
+      {
+        "name": "* alf Sge",
+        "hip": 96757,
+        "pos": [
+          0.9,
+          0.585
+        ]
+      },
+      {
+        "name": "* bet Sge",
+        "hip": 96837,
+        "pos": [
+          0.8592,
+          0.6823
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Sagittarius",
+    "subtitle": "The Archer",
+    "best_months": "July – October",
+    "description": "Sagittarius, the archer of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* eps Sgr",
+        "hip": 90185,
+        "pos": [
+          0.6839,
+          0.7995
+        ]
+      },
+      {
+        "name": "* gam02 Sgr",
+        "hip": 88635,
+        "pos": [
+          0.8564,
+          0.6319
+        ]
+      },
+      {
+        "name": "* del Sgr",
+        "hip": 89931,
+        "pos": [
+          0.7137,
+          0.6067
+        ]
+      },
+      {
+        "name": "* lam Sgr",
+        "hip": 90496,
+        "pos": [
+          0.6482,
+          0.4204
+        ]
+      },
+      {
+        "name": "* phi Sgr",
+        "hip": 92041,
+        "pos": [
+          0.482,
+          0.4867
+        ]
+      },
+      {
+        "name": "* sig Sgr",
+        "hip": 92855,
+        "pos": [
+          0.3917,
+          0.4574
+        ]
+      },
+      {
+        "name": "* tau Sgr",
+        "hip": 93864,
+        "pos": [
+          0.282,
+          0.5155
+        ]
+      },
+      {
+        "name": "* zet Sgr",
+        "hip": 93506,
+        "pos": [
+          0.3227,
+          0.6089
+        ]
+      },
+      {
+        "name": "* eta Sgr",
+        "hip": 89642,
+        "pos": [
+          0.7454,
+          0.9
+        ]
+      },
+      {
+        "name": "* mu. Sgr",
+        "hip": 89341,
+        "pos": [
+          0.7817,
+          0.2358
+        ]
+      },
+      {
+        "name": "* rho01 Sgr",
+        "hip": 95168,
+        "pos": [
+          0.1436,
+          0.1
+        ]
+      },
+      {
+        "name": "* pi. Sgr",
+        "hip": 94141,
+        "pos": [
+          0.2555,
+          0.2343
+        ]
+      },
+      {
+        "name": "* omi Sgr",
+        "hip": 93683,
+        "pos": [
+          0.3032,
+          0.2647
+        ]
+      },
+      {
+        "name": "* ksi02 Sgr",
+        "hip": 93085,
+        "pos": [
+          0.3686,
+          0.2379
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        11,
+        13
+      ],
+      [
+        12,
+        13
+      ]
+    ]
+  },
+  {
+    "name": "Telescopium",
+    "subtitle": "The Telescope",
+    "best_months": "July – October",
+    "description": "Telescopium, the telescope of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* eps Tel",
+        "hip": 89112,
+        "pos": [
+          0.8815,
+          0.1
+        ]
+      },
+      {
+        "name": "* alf Tel",
+        "hip": 90422,
+        "pos": [
+          0.199,
+          0.1036
+        ]
+      },
+      {
+        "name": "* zet Tel",
+        "hip": 90568,
+        "pos": [
+          0.1185,
+          0.9
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "Triangulum Australe",
+    "subtitle": "The Southern Triangle",
+    "best_months": "May – August (low / not visible above ~42° N)",
+    "description": "Triangulum Australe, the southern triangle of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf TrA",
+        "hip": 82273,
+        "pos": [
+          0.1,
+          0.7475
+        ]
+      },
+      {
+        "name": "* bet TrA",
+        "hip": 77952,
+        "pos": [
+          0.577,
+          0.2525
+        ]
+      },
+      {
+        "name": "* eps TrA",
+        "hip": 76440,
+        "pos": [
+          0.7412,
+          0.5078
+        ]
+      },
+      {
+        "name": "* gam TrA",
+        "hip": 74946,
+        "pos": [
+          0.9,
+          0.7167
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ]
+    ]
+  },
+  {
+    "name": "Triangulum",
+    "subtitle": "The Triangle",
+    "best_months": "November – February",
+    "description": "Triangulum, the triangle of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Tri",
+        "hip": 8796,
+        "pos": [
+          0.8788,
+          0.9
+        ]
+      },
+      {
+        "name": "* bet Tri",
+        "hip": 10064,
+        "pos": [
+          0.3641,
+          0.1
+        ]
+      },
+      {
+        "name": "* gam Tri",
+        "hip": 10670,
+        "pos": [
+          0.1212,
+          0.2686
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ]
+    ]
+  },
+  {
+    "name": "Tucana",
+    "subtitle": "The Toucan",
+    "best_months": "September – December (low / not visible above ~42° N)",
+    "description": "Tucana, the toucan of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* bet01 Tuc",
+        "hip": 2484,
+        "pos": [
+          0.1,
+          0.5537
+        ]
+      },
+      {
+        "name": "* zet Tuc",
+        "hip": 1599,
+        "pos": [
+          0.169,
+          0.6516
+        ]
+      },
+      {
+        "name": "* eps Tuc",
+        "hip": 118322,
+        "pos": [
+          0.2902,
+          0.6875
+        ]
+      },
+      {
+        "name": "* del Tuc",
+        "hip": 110838,
+        "pos": [
+          0.8469,
+          0.6563
+        ]
+      },
+      {
+        "name": "* alf Tuc",
+        "hip": 110130,
+        "pos": [
+          0.9,
+          0.4159
+        ]
+      },
+      {
+        "name": "* gam Tuc",
+        "hip": 114996,
+        "pos": [
+          0.5457,
+          0.3125
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ]
+    ]
+  },
+  {
+    "name": "Ursa Minor",
+    "subtitle": "The Lesser Bear",
+    "best_months": "June – September (circumpolar)",
+    "description": "Ursa Minor, the lesser bear of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf UMi",
+        "hip": 11767,
+        "pos": [
+          0.1,
+          0.2578
+        ]
+      },
+      {
+        "name": "* del UMi",
+        "hip": 85822,
+        "pos": [
+          0.7157,
+          0.3322
+        ]
+      },
+      {
+        "name": "* eps UMi",
+        "hip": 82080,
+        "pos": [
+          0.7685,
+          0.4586
+        ]
+      },
+      {
+        "name": "* zet UMi",
+        "hip": 77055,
+        "pos": [
+          0.8391,
+          0.5766
+        ]
+      },
+      {
+        "name": "* eta UMi",
+        "hip": 79822,
+        "pos": [
+          0.801,
+          0.6332
+        ]
+      },
+      {
+        "name": "* gam UMi",
+        "hip": 75097,
+        "pos": [
+          0.8657,
+          0.7422
+        ]
+      },
+      {
+        "name": "* bet UMi",
+        "hip": 72607,
+        "pos": [
+          0.9,
+          0.6777
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ]
+    ]
+  },
+  {
+    "name": "Vela",
+    "subtitle": "The Sails",
+    "best_months": "February – May",
+    "description": "Vela, the sails of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* del01 Vel",
+        "hip": 42913,
+        "pos": [
+          0.7211,
+          0.7109
+        ]
+      },
+      {
+        "name": "* gam02 Vel",
+        "hip": 39953,
+        "pos": [
+          0.9,
+          0.4878
+        ]
+      },
+      {
+        "name": "* lam Vel",
+        "hip": 44816,
+        "pos": [
+          0.6025,
+          0.3697
+        ]
+      },
+      {
+        "name": "* psi Vel",
+        "hip": 46651,
+        "pos": [
+          0.487,
+          0.2799
+        ]
+      },
+      {
+        "name": "* q Vel",
+        "hip": 50191,
+        "pos": [
+          0.263,
+          0.33
+        ]
+      },
+      {
+        "name": "* mu. Vel",
+        "hip": 52727,
+        "pos": [
+          0.1,
+          0.5509
+        ]
+      },
+      {
+        "name": "* phi Vel",
+        "hip": 48774,
+        "pos": [
+          0.3539,
+          0.7067
+        ]
+      },
+      {
+        "name": "* kap Vel",
+        "hip": 45941,
+        "pos": [
+          0.5307,
+          0.7201
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        6,
+        7
+      ]
+    ]
+  },
+  {
+    "name": "Virgo",
+    "subtitle": "The Maiden",
+    "best_months": "April – July",
+    "description": "Virgo, the maiden of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* eta Vir",
+        "hip": 60129,
+        "pos": [
+          0.749,
+          0.51
+        ]
+      },
+      {
+        "name": "* omi Vir",
+        "hip": 58948,
+        "pos": [
+          0.8142,
+          0.3433
+        ]
+      },
+      {
+        "name": "* nu. Vir",
+        "hip": 57380,
+        "pos": [
+          0.9,
+          0.3824
+        ]
+      },
+      {
+        "name": "* bet Vir",
+        "hip": 57757,
+        "pos": [
+          0.8786,
+          0.4669
+        ]
+      },
+      {
+        "name": "* gam Vir",
+        "hip": 61941,
+        "pos": [
+          0.6525,
+          0.5239
+        ]
+      },
+      {
+        "name": "* del Vir",
+        "hip": 63090,
+        "pos": [
+          0.5907,
+          0.4379
+        ]
+      },
+      {
+        "name": "* eps Vir",
+        "hip": 63608,
+        "pos": [
+          0.5615,
+          0.3038
+        ]
+      },
+      {
+        "name": "* tet Vir",
+        "hip": 64238,
+        "pos": [
+          0.5271,
+          0.5965
+        ]
+      },
+      {
+        "name": "* alf Vir",
+        "hip": 65474,
+        "pos": [
+          0.4595,
+          0.6962
+        ]
+      },
+      {
+        "name": "* zet Vir",
+        "hip": 66249,
+        "pos": [
+          0.4173,
+          0.5088
+        ]
+      },
+      {
+        "name": "* tau Vir",
+        "hip": 68520,
+        "pos": [
+          0.2978,
+          0.4708
+        ]
+      },
+      {
+        "name": "* 109 Vir",
+        "hip": 72220,
+        "pos": [
+          0.1,
+          0.4646
+        ]
+      },
+      {
+        "name": "* iot Vir",
+        "hip": 69701,
+        "pos": [
+          0.2341,
+          0.6047
+        ]
+      },
+      {
+        "name": "* mu. Vir",
+        "hip": 71957,
+        "pos": [
+          0.1141,
+          0.5986
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        9,
+        12
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        12,
+        13
+      ]
+    ]
+  },
+  {
+    "name": "Volans",
+    "subtitle": "The Flying Fish",
+    "best_months": "February – May (low / not visible above ~42° N)",
+    "description": "Volans, the flying fish of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Vol",
+        "hip": 44382,
+        "pos": [
+          0.1,
+          0.3536
+        ]
+      },
+      {
+        "name": "* bet Vol",
+        "hip": 41312,
+        "pos": [
+          0.3583,
+          0.3339
+        ]
+      },
+      {
+        "name": "* eps Vol",
+        "hip": 39794,
+        "pos": [
+          0.4836,
+          0.5228
+        ]
+      },
+      {
+        "name": "* del Vol",
+        "hip": 35228,
+        "pos": [
+          0.8431,
+          0.4725
+        ]
+      },
+      {
+        "name": "* gam02 Vol",
+        "hip": 34481,
+        "pos": [
+          0.9,
+          0.6661
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        4
+      ]
+    ]
+  },
+  {
+    "name": "Vulpecula",
+    "subtitle": "The Little Fox",
+    "best_months": "July – October",
+    "description": "Vulpecula, the little fox of the night sky. Imported from Stellarium line patterns.",
+    "display_stars": [
+      {
+        "name": "* alf Vul",
+        "hip": 95771,
+        "pos": [
+          0.9,
+          0.4585
+        ]
+      },
+      {
+        "name": "*  13 Vul",
+        "hip": 97886,
+        "pos": [
+          0.1,
+          0.5415
+        ]
+      }
+    ],
+    "edges": [
+      [
+        0,
+        1
+      ]
+    ]
+  }
+]
